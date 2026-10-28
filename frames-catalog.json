@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "season": "Halloween",
+  "activeStore": {
+    "seasonal": [
+      "halloween_spooky",
+      "autumn_leaves"
+    ],
+    "standard": [
+      "none",
+      "polaroid_scatter",
+      "scrapbook_tape",
+      "film35",
+      "gold_royal",
+      "cyber_neon",
+      "vintage_sepia",
+      "minimal_duo"
+    ]
+  }
+}
