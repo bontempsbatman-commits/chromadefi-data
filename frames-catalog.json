@@ -1,20 +1,69 @@
 {
-  "version": 1,
-  "season": "Halloween",
-  "activeStore": {
-    "seasonal": [
-      "halloween_spooky",
-      "autumn_leaves"
-    ],
-    "standard": [
-      "none",
-      "polaroid_scatter",
-      "scrapbook_tape",
-      "film35",
-      "gold_royal",
-      "cyber_neon",
-      "vintage_sepia",
-      "minimal_duo"
-    ]
-  }
+  "version": 3,
+  "season": "Automne",
+  "activeStore": [
+    "autumn_border",
+    "halloween_overlay",
+    "passepartout_custom_4"
+  ],
+  "frames": [
+    {
+      "id": "autumn_border",
+      "nameFr": "Bordure Automne",
+      "nameEn": "Autumn Border",
+      "descFr": "Liseré doré aux teintes chaudes d'automne avec feuilles cuivrées.",
+      "descEn": "Warm golden autumn border with copper leaves.",
+      "price": 3,
+      "badge": "Saisonnier",
+      "icon": "leaf",
+      "type": "remote_png",
+      "isSeasonal": true,
+      "images": {
+        "square": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/autumn_1_1.png",
+        "landscape": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/autumn_16_9.png",
+        "portrait": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/autumn_4_5.png",
+        "story": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/autumn_9_16.png"
+      }
+    },
+    {
+      "id": "halloween_overlay",
+      "nameFr": "Manoir Fantôme (Option A)",
+      "nameEn": "Ghost Manor (Option A)",
+      "descFr": "Décor d'angle avec toiles et chauves-souris, compatible tout nombre de photos.",
+      "descEn": "Corner overlay with webs and bats, adapts to any photo count.",
+      "price": 5,
+      "badge": "Édition Halloween",
+      "icon": "ghost",
+      "type": "remote_png",
+      "isSeasonal": true,
+      "images": {
+        "square": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/halloween_1_1.png",
+        "landscape": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/halloween_16_9.png"
+      }
+    },
+    {
+      "id": "passepartout_custom_4",
+      "nameFr": "Passe-partout 4 Fenêtres (Option B)",
+      "nameEn": "4-Slot Mat (Option B)",
+      "descFr": "Cadre passe-partout avec 4 ouvertures précises pour 4 photos.",
+      "descEn": "Mat frame with 4 exact cutout windows for 4 photos.",
+      "price": 6,
+      "badge": "Sur Mesure",
+      "icon": "layout-grid",
+      "type": "remote_png",
+      "isSeasonal": false,
+      "compatibleCounts": [4],
+      "images": {
+        "square": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/passepartout_4_1_1.png"
+      },
+      "layout": {
+        "square": [
+          { "x": 0.08, "y": 0.08, "w": 0.40, "h": 0.40 },
+          { "x": 0.52, "y": 0.08, "w": 0.40, "h": 0.40 },
+          { "x": 0.08, "y": 0.52, "w": 0.40, "h": 0.40 },
+          { "x": 0.52, "y": 0.52, "w": 0.40, "h": 0.40 }
+        ]
+      }
+    }
+  ]
 }
