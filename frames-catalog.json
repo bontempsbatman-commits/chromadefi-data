@@ -1,67 +1,61 @@
 {
   "version": 3,
-  "season": "Automne",
-  "activeStore": [
-    "autumn_border",
-    "halloween_overlay",
-    "passepartout_custom_4"
-  ],
+  "season": "Test 3 Types",
+  "activeStore": {
+    "seasonal": ["test_type1_leaves"],
+    "standard": ["test_type2_passepartout", "test_type3_slots4"]
+  },
   "frames": [
     {
-      "id": "autumn_border",
-      "nameFr": "Bordure Automne",
-      "nameEn": "Autumn Border",
-      "descFr": "Liseré doré aux teintes chaudes d'automne avec feuilles cuivrées.",
-      "descEn": "Warm golden autumn border with copper leaves.",
-      "price": 3,
-      "badge": "Saisonnier",
+      "id": "test_type1_leaves",
+      "nameFr": "Feuillage d'Automne (Type 1)",
+      "nameEn": "Autumn Foliage (Type 1)",
+      "descFr": "Type 1 : Décor de bordure superposé. Compatible avec n'importe quelle disposition et nombre de clichés.",
+      "descEn": "Type 1: Border decoration overlay. Adapts to all photo counts.",
+      "price": 2,
+      "badge": "Type 1 - Overlay",
       "icon": "leaf",
-      "type": "remote_png",
-      "isSeasonal": true,
+      "type": "remote_overlay",
       "images": {
-        "square": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/autumn_1_1.png",
-        "landscape": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/autumn_16_9.png",
-        "portrait": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/autumn_4_5.png",
-        "story": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/autumn_9_16.png"
+        "square": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/type1_square.png",
+        "landscape": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/type1_landscape.png"
       }
     },
     {
-      "id": "halloween_overlay",
-      "nameFr": "Manoir Fantôme (Option A)",
-      "nameEn": "Ghost Manor (Option A)",
-      "descFr": "Décor d'angle avec toiles et chauves-souris, compatible tout nombre de photos.",
-      "descEn": "Corner overlay with webs and bats, adapts to any photo count.",
+      "id": "test_type2_passepartout",
+      "nameFr": "Passe-Partout Musée (Type 2)",
+      "nameEn": "Museum Passe-partout (Type 2)",
+      "descFr": "Type 2 : Cadre complet avec passe-partout. Les photos utilisent la grille standard avec marge calibrée.",
+      "descEn": "Type 2: Full border passe-partout overlay with standard grid layout.",
+      "price": 3,
+      "badge": "Type 2 - Cadre Plein",
+      "icon": "square",
+      "type": "remote_fullframe",
+      "images": {
+        "square": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/type2_square.png",
+        "landscape": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/type2_landscape.png"
+      }
+    },
+    {
+      "id": "test_type3_slots4",
+      "nameFr": "Quatuor Galerie (Type 3)",
+      "nameEn": "Gallery Quartet (Type 3)",
+      "descFr": "Type 3 : 4 fenêtres fixes positionnées au millimètre. Réservé aux défis de 4 photos.",
+      "descEn": "Type 3: 4 fixed coordinate slots. Strictly for 4-photo challenges.",
       "price": 5,
-      "badge": "Édition Halloween",
-      "icon": "ghost",
-      "type": "remote_png",
-      "isSeasonal": true,
-      "images": {
-        "square": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/halloween_1_1.png",
-        "landscape": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/halloween_16_9.png"
-      }
-    },
-    {
-      "id": "passepartout_custom_4",
-      "nameFr": "Passe-partout 4 Fenêtres (Option B)",
-      "nameEn": "4-Slot Mat (Option B)",
-      "descFr": "Cadre passe-partout avec 4 ouvertures précises pour 4 photos.",
-      "descEn": "Mat frame with 4 exact cutout windows for 4 photos.",
-      "price": 6,
-      "badge": "Sur Mesure",
-      "icon": "layout-grid",
-      "type": "remote_png",
-      "isSeasonal": false,
+      "badge": "Type 3 - Fenêtres Fixes",
+      "icon": "layout",
+      "type": "remote_slots",
       "compatibleCounts": [4],
       "images": {
-        "square": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/passepartout_4_1_1.png"
+        "square": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/type3_square.png"
       },
-      "layout": {
+      "slots": {
         "square": [
-          { "x": 0.08, "y": 0.08, "w": 0.40, "h": 0.40 },
-          { "x": 0.52, "y": 0.08, "w": 0.40, "h": 0.40 },
-          { "x": 0.08, "y": 0.52, "w": 0.40, "h": 0.40 },
-          { "x": 0.52, "y": 0.52, "w": 0.40, "h": 0.40 }
+          { "x": 6, "y": 6, "w": 41, "h": 41 },
+          { "x": 53, "y": 6, "w": 41, "h": 41 },
+          { "x": 6, "y": 53, "w": 41, "h": 41 },
+          { "x": 53, "y": 53, "w": 41, "h": 41 }
         ]
       }
     }
