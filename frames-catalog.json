@@ -55,10 +55,10 @@
       },
       "slots": {
         "square": [
-          { "x": 6, "y": 6, "w": 41, "h": 41, "defaultBw": true },
+          { "x": 6, "y": 6, "w": 41, "h": 41, "defaultBw": false },
           { "x": 53, "y": 6, "w": 41, "h": 41, "defaultBw": false },
           { "x": 6, "y": 53, "w": 41, "h": 41, "defaultBw": false },
-          { "x": 53, "y": 53, "w": 41, "h": 41, "defaultBw": true }
+          { "x": 53, "y": 53, "w": 41, "h": 41, "defaultBw": false }
         ]
       }
     }
