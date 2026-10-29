@@ -3,7 +3,7 @@
   "season": "Test 3 Types",
   "activeStore": {
     "seasonal": ["test_type1_leaves"],
-    "standard": ["test_type2_passepartout", "test_type3_slots4"]
+    "standard": ["test_type2_passepartout", "test_type3_slots4", "test_type2_copie"]
   },
   "frames": [
     {
