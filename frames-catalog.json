@@ -1,18 +1,18 @@
 {
-  "version": 5,
+  "version": 6,
   "frames": [
     {
       "id": "test_type1_leaves",
       "nameFr": "Feuillage d'Automne (Type 1)",
       "nameEn": "Autumn Foliage (Type 1)",
-      "descFr": "Type 1 : Décor de feuilles superposé avec rendu Noir & Blanc automatique.",
-      "descEn": "Type 1: Border decoration overlay with automatic B&W preset.",
-      "price": 2,
+      "descFr": "Type 1 : Décor de feuilles superposé. Compatible formats Carré et Paysage.",
+      "descEn": "Type 1: Overlay leaves decoration. Square & Landscape compatible.",
+      "price": 1,
       "badge": "Type 1 - Overlay",
       "icon": "leaf",
       "type": "remote_overlay",
-      "defaultBw": true,
-      "defaultBwThreshold": 50,
+      "compatibleCounts": [3, 4, 5, 6],
+      "ratios": ["square", "landscape"],
       "images": {
         "square": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/type1_square.png",
         "landscape": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/type1_landscape.png"
@@ -22,41 +22,39 @@
       "id": "test_type2_passepartout",
       "nameFr": "Passe-Partout Musée (Type 2)",
       "nameEn": "Museum Passe-partout (Type 2)",
-      "descFr": "Type 2 : Cadre complet avec passe-partout et filtre N&B argentique.",
-      "descEn": "Type 2: Museum matting frame with silver B&W filter.",
-      "price": 3,
+      "descFr": "Type 2 : Bordure pleine élégante en format Carré (1:1).",
+      "descEn": "Type 2: Elegant museum border in Square format (1:1).",
+      "price": 1,
       "badge": "Type 2 - Cadre Plein",
       "icon": "square",
       "type": "remote_fullframe",
-      "defaultBw": true,
-      "defaultBwThreshold": 50,
+      "compatibleCounts": [3, 4, 5, 6],
+      "ratios": ["square"],
       "images": {
-        "square": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/type2_square.png",
-        "landscape": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/type2_landscape.png"
+        "square": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/type2_square.png"
       }
     },
     {
       "id": "test_type3_slots4",
       "nameFr": "Quatuor Galerie (Type 3)",
       "nameEn": "Gallery Quartet (Type 3)",
-      "descFr": "Type 3 : 4 fenêtres fixes d'artiste avec filtre Noir & Blanc par défaut.",
-      "descEn": "Type 3: 4 fixed artist cutouts with default Black & White filter.",
-      "price": 5,
-      "badge": "Type 3 - Fenêtres Fixes",
-      "icon": "layout",
+      "descFr": "Type 3 : 4 fenêtres fixes avec alternance artistique N&B et Couleur par case.",
+      "descEn": "Type 3: 4 artist slots with individual B&W and Color slots preset.",
+      "price": 1,
+      "badge": "Type 3 - 4 Photos",
+      "icon": "layout-grid",
       "type": "remote_slots",
       "compatibleCounts": [4],
-      "defaultBw": true,
-      "defaultBwThreshold": 50,
+      "ratios": ["square"],
       "images": {
         "square": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/type3_square.png"
       },
       "slots": {
         "square": [
-          { "x": 6, "y": 6, "w": 41, "h": 41 },
-          { "x": 53, "y": 6, "w": 41, "h": 41 },
-          { "x": 6, "y": 53, "w": 41, "h": 41 },
-          { "x": 53, "y": 53, "w": 41, "h": 41 }
+          { "x": 6, "y": 6, "w": 41, "h": 41, "defaultBw": true, "defaultBwThreshold": 50 },
+          { "x": 53, "y": 6, "w": 41, "h": 41, "defaultBw": false },
+          { "x": 6, "y": 53, "w": 41, "h": 41, "defaultBw": false },
+          { "x": 53, "y": 53, "w": 41, "h": 41, "defaultBw": true, "defaultBwThreshold": 50 }
         ]
       }
     }
