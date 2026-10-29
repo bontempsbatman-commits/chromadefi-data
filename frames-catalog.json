@@ -16,7 +16,7 @@
       "badge": "Type 1 - Overlay",
       "icon": "leaf",
       "type": "remote_overlay",
-      "defaultBw": false,
+      "defaultBw": true,
       "images": {
         "square": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/type1_square.png",
         "landscape": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/type1_landscape.png"
