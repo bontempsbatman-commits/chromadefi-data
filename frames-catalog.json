@@ -1,51 +1,52 @@
 {
-  "version": 6,
+  "version": 7,
   "frames": [
     {
-      "id": "test_type1_leaves",
+      "id": "cadre_type1_overlay",
       "nameFr": "Feuillage d'Automne (Type 1)",
       "nameEn": "Autumn Foliage (Type 1)",
-      "descFr": "Type 1 : Décor de feuilles superposé. Compatible formats Carré et Paysage.",
-      "descEn": "Type 1: Overlay leaves decoration. Square & Landscape compatible.",
-      "price": 1,
+      "descFr": "Bordure décorative transparente superposée sur le montage.",
+      "descEn": "Decorative overlay border blending onto photos.",
+      "price": 2,
       "badge": "Type 1 - Overlay",
       "icon": "leaf",
       "type": "remote_overlay",
       "compatibleCounts": [3, 4, 5, 6],
-      "ratios": ["square", "landscape"],
+      "ratios": ["square", "portrait", "landscape"],
       "images": {
         "square": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/type1_square.png",
         "landscape": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/type1_landscape.png"
       }
     },
     {
-      "id": "test_type2_passepartout",
+      "id": "cadre_type2_fullframe",
       "nameFr": "Passe-Partout Musée (Type 2)",
       "nameEn": "Museum Passe-partout (Type 2)",
-      "descFr": "Type 2 : Bordure pleine élégante en format Carré (1:1).",
-      "descEn": "Type 2: Elegant museum border in Square format (1:1).",
-      "price": 1,
+      "descFr": "Cadre plein élégant avec bordure biseautée pour vos clichés.",
+      "descEn": "Full border frame with refined museum matting.",
+      "price": 3,
       "badge": "Type 2 - Cadre Plein",
       "icon": "square",
       "type": "remote_fullframe",
       "compatibleCounts": [3, 4, 5, 6],
-      "ratios": ["square"],
+      "ratios": ["square", "landscape"],
       "images": {
-        "square": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/type2_square.png"
+        "square": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/type2_square.png",
+        "landscape": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/type2_landscape.png"
       }
     },
     {
-      "id": "test_type3_slots4",
+      "id": "cadre_type3_slots4",
       "nameFr": "Quatuor Galerie (Type 3)",
       "nameEn": "Gallery Quartet (Type 3)",
-      "descFr": "Type 3 : 4 fenêtres fixes avec alternance artistique N&B et Couleur par case.",
-      "descEn": "Type 3: 4 artist slots with individual B&W and Color slots preset.",
-      "price": 1,
-      "badge": "Type 3 - 4 Photos",
-      "icon": "layout-grid",
+      "descFr": "4 fenêtres artistiques avec cases #1 et #4 en Noir & Blanc par défaut.",
+      "descEn": "4 artistic cutouts with slots #1 and #4 defaulting to Black & White.",
+      "price": 5,
+      "badge": "Type 3 - 4 Clichés",
+      "icon": "layout",
       "type": "remote_slots",
       "compatibleCounts": [4],
-      "ratios": ["square"],
+      "ratios": ["square", "landscape"],
       "images": {
         "square": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/type3_square.png"
       },
