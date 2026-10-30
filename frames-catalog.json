@@ -23,7 +23,7 @@
       ],
       "defaultBw": false,
       "images": {
-        "square": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/November_001_1-1.png",
+        "square": "https://raw.githubusercontent.com/bontempsbatman-commits/chromadefi-data/refs/heads/main/frames/November_001_1-1.png",
         "story": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/November_001_9-16.png",
         "portrait": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/November_001_4-5.png",
         "landscape": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/November_001_16-9.png",
