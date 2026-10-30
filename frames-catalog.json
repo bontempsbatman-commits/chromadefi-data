@@ -130,6 +130,111 @@
           }
         ]
       }
+    },
+    {
+      "id": "Autumn_001",
+      "nameFr": "Automne 001",
+      "nameEn": "Autumn 001",
+      "descFr": "Cadre décoratif pour l'automne.",
+      "descEn": "Decorative frame for Autumn .",
+      "price": 2,
+      "badge": "",
+      "icon": "flower",
+      "type": "remote_slots",
+      "compatibleCounts": [
+        3
+      ],
+      "ratios": [
+        "square"
+      ],
+      "defaultBw": false,
+      "images": {
+        "square": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/Automne_001_1-1.png"
+      },
+      "slots": {
+        "square": [
+          {
+            "points": [
+              {
+                "x": 6.26,
+                "y": 14.23
+              },
+              {
+                "x": 51.61,
+                "y": 6.26
+              },
+              {
+                "x": 56.36,
+                "y": 41.75
+              },
+              {
+                "x": 25.81,
+                "y": 46.68
+              },
+              {
+                "x": 16.51,
+                "y": 45.73
+              },
+              {
+                "x": 11.57,
+                "y": 44.78
+              },
+              {
+                "x": 7.4,
+                "y": 21.25
+              }
+            ]
+          },
+          {
+            "points": [
+              {
+                "x": 61.1,
+                "y": 15.75
+              },
+              {
+                "x": 97.15,
+                "y": 22.01
+              },
+              {
+                "x": 88.61,
+                "y": 71.35
+              },
+              {
+                "x": 61.67,
+                "y": 66.41
+              },
+              {
+                "x": 63.76,
+                "y": 54.46
+              },
+              {
+                "x": 55.6,
+                "y": 52.56
+              }
+            ]
+          },
+          {
+            "points": [
+              {
+                "x": 57.69,
+                "y": 85.2
+              },
+              {
+                "x": 62.81,
+                "y": 54.46
+              },
+              {
+                "x": 13.28,
+                "y": 45.54
+              },
+              {
+                "x": 7.59,
+                "y": 76.28
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
