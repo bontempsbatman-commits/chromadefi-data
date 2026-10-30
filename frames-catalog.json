@@ -17,13 +17,17 @@
       "ratios": [
         "square",
         "story",
-        "portrait"
+        "portrait",
+        "landscape",
+        "banner"
       ],
       "defaultBw": false,
       "images": {
         "square": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/November_001_1-1.png",
         "story": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/November_001_9-16.png",
-        "portrait": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/November_001_4-5.png"
+        "portrait": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/November_001_4-5.png",
+        "landscape": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/November_001_16-9.png",
+        "banner": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/November_001_1.91-1.png"
       }
     }
   ]
