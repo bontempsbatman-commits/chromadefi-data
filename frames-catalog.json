@@ -1,62 +1,29 @@
 {
-  "version": 7,
+  "version": 6,
   "frames": [
     {
-      "id": "cadre_type1_overlay",
-      "nameFr": "Feuillage d'Automne (Type 1)",
-      "nameEn": "Autumn Foliage (Type 1)",
-      "descFr": "Bordure décorative transparente superposée sur le montage.",
-      "descEn": "Decorative overlay border blending onto photos.",
-      "price": 2,
-      "badge": "Type 1 - Overlay",
-      "icon": "leaf",
+      "id": "november_001",
+      "nameFr": "Novembre",
+      "nameEn": "November",
+      "descFr": "Cadre décoratif pour Novembre.",
+      "descEn": "Decorative frame for November.",
+      "price": 1,
+      "badge": "",
+      "icon": "calendar-days",
       "type": "remote_overlay",
-      "compatibleCounts": [3, 4, 5, 6],
-      "ratios": ["square", "portrait", "landscape"],
+      "compatibleCounts": [
+        6
+      ],
+      "ratios": [
+        "square",
+        "story",
+        "portrait"
+      ],
+      "defaultBw": false,
       "images": {
-        "square": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/type1_square.png",
-        "landscape": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/type1_landscape.png"
-      }
-    },
-    {
-      "id": "cadre_type2_fullframe",
-      "nameFr": "Passe-Partout Musée (Type 2)",
-      "nameEn": "Museum Passe-partout (Type 2)",
-      "descFr": "Cadre plein élégant avec bordure biseautée pour vos clichés.",
-      "descEn": "Full border frame with refined museum matting.",
-      "price": 3,
-      "badge": "Type 2 - Cadre Plein",
-      "icon": "square",
-      "type": "remote_fullframe",
-      "compatibleCounts": [3, 4, 5, 6],
-      "ratios": ["square", "landscape"],
-      "images": {
-        "square": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/type2_square.png",
-        "landscape": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/type2_landscape.png"
-      }
-    },
-    {
-      "id": "cadre_type3_slots4",
-      "nameFr": "Quatuor Galerie (Type 3)",
-      "nameEn": "Gallery Quartet (Type 3)",
-      "descFr": "4 fenêtres artistiques avec cases #1 et #4 en Noir & Blanc par défaut.",
-      "descEn": "4 artistic cutouts with slots #1 and #4 defaulting to Black & White.",
-      "price": 5,
-      "badge": "Type 3 - 4 Clichés",
-      "icon": "layout",
-      "type": "remote_slots",
-      "compatibleCounts": [4],
-      "ratios": ["square", "landscape"],
-      "images": {
-        "square": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/type3_square.png"
-      },
-      "slots": {
-        "square": [
-          { "x": 6, "y": 6, "w": 41, "h": 41, "defaultBw": true, "defaultBwThreshold": 50 },
-          { "x": 53, "y": 6, "w": 41, "h": 41, "defaultBw": false },
-          { "x": 6, "y": 53, "w": 41, "h": 41, "defaultBw": false },
-          { "x": 53, "y": 53, "w": 41, "h": 41, "defaultBw": true, "defaultBwThreshold": 50 }
-        ]
+        "square": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/November_001_1-1.png",
+        "story": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/November_001_9-16.png",
+        "portrait": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/November_001_4-5.png"
       }
     }
   ]
