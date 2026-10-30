@@ -29,6 +29,107 @@
         "landscape": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/November_001_16-9.png",
         "banner": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/November_001_1.91-1.png"
       }
+    },
+    {
+      "id": "halloween_001",
+      "nameFr": "Halloween 001",
+      "nameEn": "Halloween 001",
+      "descFr": "Cadre décoratif pour Halloween.",
+      "descEn": "Decorative frame for Halloween.",
+      "price": 2,
+      "badge": "HALLOWEEN",
+      "icon": "layout-grid",
+      "type": "remote_slots",
+      "compatibleCounts": [
+        6
+      ],
+      "ratios": [
+        "story"
+      ],
+      "defaultBw": false,
+      "images": {
+        "story": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/Halloween_001_9-16.png"
+      },
+      "slots": {
+        "story": [
+          {
+            "x": 11.3,
+            "y": 11.87,
+            "w": 37.41,
+            "h": 23.43,
+            "rot": -2
+          },
+          {
+            "x": 51.48,
+            "y": 11.77,
+            "w": 37.04,
+            "h": 23.54
+          },
+          {
+            "x": 11.48,
+            "y": 37.13,
+            "w": 36.85,
+            "h": 23.45
+          },
+          {
+            "x": 51.3,
+            "y": 37.24,
+            "w": 37.5,
+            "h": 23.07
+          },
+          {
+            "x": 11.85,
+            "y": 62.45,
+            "w": 36.67,
+            "h": 22.97
+          },
+          {
+            "x": 51.48,
+            "y": 62.6,
+            "w": 37.31,
+            "h": 22.66
+          }
+        ],
+        "square": [
+          {
+            "x": 11.3,
+            "y": 11.87,
+            "w": 37.41,
+            "h": 23.43,
+            "rot": -2
+          },
+          {
+            "x": 51.48,
+            "y": 11.77,
+            "w": 37.04,
+            "h": 23.54
+          },
+          {
+            "x": 11.48,
+            "y": 37.13,
+            "w": 36.85,
+            "h": 23.45
+          },
+          {
+            "x": 51.3,
+            "y": 37.24,
+            "w": 37.5,
+            "h": 23.07
+          },
+          {
+            "x": 11.85,
+            "y": 62.45,
+            "w": 36.67,
+            "h": 22.97
+          },
+          {
+            "x": 51.48,
+            "y": 62.6,
+            "w": 37.31,
+            "h": 22.66
+          }
+        ]
+      }
     }
   ]
 }
