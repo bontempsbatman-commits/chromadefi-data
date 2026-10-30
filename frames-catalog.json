@@ -235,6 +235,83 @@
           }
         ]
       }
+    },
+    {
+      "id": "polaroid_001",
+      "nameFr": "Polaroid",
+      "nameEn": "Polaroid",
+      "descFr": "",
+      "descEn": "",
+      "price": 2,
+      "badge": "",
+      "icon": "layout-grid",
+      "type": "remote_slots",
+      "compatibleCounts": [
+        4
+      ],
+      "ratios": [
+        "story"
+      ],
+      "defaultBw": false,
+      "images": {
+        "story": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/Polaroid_001_9-16.png"
+      },
+      "slots": {
+        "story": [
+          {
+            "x": -0.01,
+            "y": -0.04,
+            "w": 100.64,
+            "h": 100.18,
+            "defaultBw": true
+          },
+          {
+            "x": 19.72,
+            "y": 8.96,
+            "w": 60.56,
+            "h": 24.79
+          },
+          {
+            "x": 19.72,
+            "y": 36.51,
+            "w": 60.37,
+            "h": 24.79
+          },
+          {
+            "x": 19.72,
+            "y": 64.17,
+            "w": 60.37,
+            "h": 22.19
+          }
+        ],
+        "square": [
+          {
+            "x": -0.01,
+            "y": -0.04,
+            "w": 100.64,
+            "h": 100.18,
+            "defaultBw": true
+          },
+          {
+            "x": 19.72,
+            "y": 8.96,
+            "w": 60.56,
+            "h": 24.79
+          },
+          {
+            "x": 19.72,
+            "y": 36.51,
+            "w": 60.37,
+            "h": 24.79
+          },
+          {
+            "x": 19.72,
+            "y": 64.17,
+            "w": 60.37,
+            "h": 22.19
+          }
+        ]
+      }
     }
   ]
 }
