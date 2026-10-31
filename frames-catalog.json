@@ -12,8 +12,7 @@
       "icon": "calendar-days",
       "type": "remote_overlay",
       "compatibleCounts": [
-        4,
-        6
+        3,4,5,6
       ],
       "ratios": [
         "square",
