@@ -1,37 +1,30 @@
 {
-  "version": 6,
-  "id": "cadre",
-  "nameFr": "Cadre",
-  "nameEn": "Frame",
-  "frames": [
+  "kind": "sequens-index",
+  "version": 1,
+  "collections": [
     {
-      "id": "cadre_1",
-      "nameFr": "Cadre en bois",
-      "nameEn": "Wooden frame",
-      "descFr": "",
-      "descEn": "",
-      "price": 0,
-      "badge": "",
-      "icon": "frame",
-      "type": "remote_fullframe",
-      "pageCount": 1,
-      "compatibleCounts": [
-        3,
-        4,
-        5,
-        6
-      ],
-      "ratios": [
-        "square"
-      ],
-      "defaultBw": false,
-      "defaultBwThreshold": 50,
-      "defaultBwSlots": [],
-      "images": {
-        "square": "images/cadre_1-square.png"
-      },
-      "slots": {},
-      "thumbnail": "miniatures/cadre_1.png"
+      "id": "automne",
+      "revision": 1,
+      "nameFr": "Automne",
+      "nameEn": "Autumn",
+      "url": "collections/automne/collection.json",
+      "frameCount": 2
+    },
+    {
+      "id": "halloween",
+      "nameFr": "Halloween",
+      "nameEn": "Halloween",
+      "url": "collections/halloween/collection.json",
+      "revision": 1,
+      "frameCount": 1
+    },
+    {
+      "id": "cadre",
+      "revision": 1,
+      "nameFr": "Cadre",
+      "nameEn": "Frame",
+      "url": "collections/cadre/collection.json",
+      "frameCount": 1
     }
   ]
 }
