@@ -1,0 +1,37 @@
+{
+  "version": 6,
+  "id": "cadre",
+  "nameFr": "Cadre",
+  "nameEn": "Frame",
+  "frames": [
+    {
+      "id": "cadre_1",
+      "nameFr": "Cadre en bois",
+      "nameEn": "Wooden frame",
+      "descFr": "",
+      "descEn": "",
+      "price": 0,
+      "badge": "",
+      "icon": "frame",
+      "type": "remote_fullframe",
+      "pageCount": 1,
+      "compatibleCounts": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "ratios": [
+        "square"
+      ],
+      "defaultBw": false,
+      "defaultBwThreshold": 50,
+      "defaultBwSlots": [],
+      "images": {
+        "square": "images/cadre_1-square.png"
+      },
+      "slots": {},
+      "thumbnail": "miniatures/cadre_1.png"
+    }
+  ]
+}
