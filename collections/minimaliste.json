@@ -1,1 +1,225 @@
+{
+  "version": 6,
+  "id": "minimaliste",
+  "nameFr": "Minimaliste",
+  "nameEn": "Minimalist",
+  "frames": [
+    {
+      "price": 0,
+      "badge": "MINIMALISTE",
+      "icon": "layout-grid",
+      "defaultBw": false,
+      "defaultBwThreshold": 50,
+      "defaultBwSlots": [],
+      "id": "minimaliste_001",
+      "nameFr": "Minimaliste",
+      "nameEn": "Minimalist",
+      "descFr": "Un cadre épuré pour laisser parler les photos.",
+      "descEn": "A clean frame that lets the photos speak.",
+      "type": "remote_fullframe",
+      "compatibleCounts": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "ratios": [
+        "square",
+        "story",
+        "portrait",
+        "landscape",
+        "banner"
+      ],
+      "pageCount": 1,
+      "images": {
+        "square": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/minimaliste/minimal-square.svg",
+        "story": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/minimaliste/minimal-story.svg",
+        "portrait": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/minimaliste/minimal-portrait.svg",
+        "landscape": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/minimaliste/minimal-landscape.svg",
+        "banner": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/minimaliste/minimal-banner.svg"
+      },
+      "thumbnail": "https://bontempsbatman-commits.github.io/chromadefi-data/thumbnails/minimaliste-001.webp"
+    },
+    {
+      "price": 0,
+      "badge": "MINIMALISTE",
+      "icon": "layout-grid",
+      "defaultBw": false,
+      "defaultBwThreshold": 50,
+      "defaultBwSlots": [],
+      "id": "minimaliste_duo_001",
+      "nameFr": "Minimaliste · Duo continu",
+      "nameEn": "Minimalist · Continuous duo",
+      "descFr": "Une photo traverse les deux pages, avec un rectangle tourné et un polygone.",
+      "descEn": "A photo spans two pages, with a rotated rectangle and a polygon.",
+      "type": "remote_slots",
+      "compatibleCounts": [
+        3
+      ],
+      "ratios": [
+        "square",
+        "portrait"
+      ],
+      "pageCount": 2,
+      "images": {
+        "square": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/minimaliste/duo-square.svg",
+        "portrait": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/minimaliste/duo-portrait.svg"
+      },
+      "thumbnail": "https://bontempsbatman-commits.github.io/chromadefi-data/thumbnails/minimaliste-duo-001.webp",
+      "slots": {
+        "square": [
+          {
+            "x": 3,
+            "y": 8,
+            "w": 94,
+            "h": 52
+          },
+          {
+            "x": 3,
+            "y": 65,
+            "w": 44,
+            "h": 29,
+            "rot": -4
+          },
+          {
+            "points": [
+              {
+                "x": 53,
+                "y": 65
+              },
+              {
+                "x": 97,
+                "y": 65
+              },
+              {
+                "x": 94,
+                "y": 94
+              },
+              {
+                "x": 55,
+                "y": 94
+              }
+            ],
+            "defaultBw": true,
+            "bwThreshold": 65
+          }
+        ],
+        "portrait": [
+          {
+            "x": 3,
+            "y": 8,
+            "w": 94,
+            "h": 52
+          },
+          {
+            "x": 3,
+            "y": 65,
+            "w": 44,
+            "h": 29,
+            "rot": -4
+          },
+          {
+            "points": [
+              {
+                "x": 53,
+                "y": 65
+              },
+              {
+                "x": 97,
+                "y": 65
+              },
+              {
+                "x": 94,
+                "y": 94
+              },
+              {
+                "x": 55,
+                "y": 94
+              }
+            ],
+            "defaultBw": true,
+            "bwThreshold": 65
+          }
+        ]
+      }
+    },
+    {
+      "id": "polaroid_001",
+      "nameFr": "Polaroid",
+      "nameEn": "Polaroid",
+      "descFr": "",
+      "descEn": "",
+      "price": 2,
+      "badge": "",
+      "icon": "layout-grid",
+      "type": "remote_slots",
+      "compatibleCounts": [
+        4
+      ],
+      "ratios": [
+        "story"
+      ],
+      "defaultBw": false,
+      "images": {
+        "story": "https://bontempsbatman-commits.github.io/chromadefi-data/frames/Polaroid_001_9-16.png"
+      },
+      "slots": {
+        "story": [
+          {
+            "x": -0.01,
+            "y": -0.04,
+            "w": 100.64,
+            "h": 100.18,
+            "defaultBw": true
+          },
+          {
+            "x": 19.72,
+            "y": 8.96,
+            "w": 60.56,
+            "h": 24.79
+          },
+          {
+            "x": 19.72,
+            "y": 36.51,
+            "w": 60.37,
+            "h": 24.79
+          },
+          {
+            "x": 19.72,
+            "y": 64.17,
+            "w": 60.37,
+            "h": 22.19
+          }
+        ],
+        "square": [
+          {
+            "x": -0.01,
+            "y": -0.04,
+            "w": 100.64,
+            "h": 100.18,
+            "defaultBw": true
+          },
+          {
+            "x": 19.72,
+            "y": 8.96,
+            "w": 60.56,
+            "h": 24.79
+          },
+          {
+            "x": 19.72,
+            "y": 36.51,
+            "w": 60.37,
+            "h": 24.79
+          },
+          {
+            "x": 19.72,
+            "y": 64.17,
+            "w": 60.37,
+            "h": 22.19
+          }
+        ]
+      }
+    }
+  ]
+}
 
