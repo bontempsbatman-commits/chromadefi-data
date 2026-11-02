@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "stickers": [
+    {
+      "id": "test-heart-blue",
+      "nameFr": "Cœur bleu · test",
+      "nameEn": "Blue heart · test",
+      "collection": "Test",
+      "tags": [
+        "test",
+        "coeur",
+        "bleu"
+      ],
+      "image": "images/coeur-bleu.svg"
+    },
+    {
+      "id": "test-star-purple",
+      "nameFr": "Étoile violette · test",
+      "nameEn": "Purple star · test",
+      "collection": "Test",
+      "tags": [
+        "test",
+        "etoile",
+        "violet"
+      ],
+      "image": "images/etoile-violette.svg"
+    }
+  ]
+}
