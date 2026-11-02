@@ -1,0 +1,33 @@
+{
+  "kind": "sequens-index",
+  "version": 1,
+  "nameFr": "Catalogue Sequens",
+  "nameEn": "Sequens catalog",
+  "collections": [
+    {
+      "id": "minimaliste",
+      "nameFr": "Minimaliste",
+      "nameEn": "Minimalist",
+      "url": "collections/minimaliste.json",
+      "revision": 1,
+      "frameCount": 3
+    },
+    {
+      "id": "automne",
+      "nameFr": "Automne",
+      "nameEn": "Autumn",
+      "url": "collections/automne.json",
+      "revision": 1,
+      "frameCount": 3
+    },
+    {
+      "id": "halloween",
+      "nameFr": "Halloween",
+      "nameEn": "Halloween",
+      "url": "collections/halloween.json",
+      "revision": 1,
+      "frameCount": 1
+    }
+  ],
+  "stickerCatalogUrl": "stickers/catalogue-stickers.json"
+}
