@@ -3,6 +3,14 @@
   "version": 1,
   "collections": [
     {
+      "id": "automne",
+      "revision": 1,
+      "nameFr": "Automne",
+      "nameEn": "Autumn",
+      "url": "collections/automne/collection.json",
+      "frameCount": 2
+    }
+    {
       "id": "halloween",
       "nameFr": "Halloween",
       "nameEn": "Halloween",
