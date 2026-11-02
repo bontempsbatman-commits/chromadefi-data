@@ -25,6 +25,14 @@
       "nameEn": "Frame",
       "url": "collections/cadre/collection.json",
       "frameCount": 1
+    },
+    {
+      "id": "test",
+      "revision": 1,
+      "nameFr": "Test",
+      "nameEn": "Test",
+      "url": "collections/test/collection.json",
+      "frameCount": 1
     }
   ]
 }
