@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "id": "halloween",
+  "nameFr": "Halloween",
+  "nameEn": "Halloween",
+  "stickers": [
+    {
+      "id": "halloween_citrouille_001",
+      "nameFr": "Citrouille",
+      "nameEn": "Pumpkin",
+      "image": "images/citrouille.svg",
+      "thumbnail": "miniatures/citrouille.webp",
+      "tags": [
+        "halloween",
+        "citrouille",
+        "pumpkin"
+      ]
+    },
+    {
+      "id": "halloween_fantome_001",
+      "nameFr": "Fantôme",
+      "nameEn": "Ghost",
+      "image": "images/fantome.svg",
+      "thumbnail": "miniatures/fantome.webp",
+      "tags": [
+        "halloween",
+        "fantome",
+        "ghost"
+      ]
+    },
+    {
+      "id": "halloween_chauve_souris_001",
+      "nameFr": "Chauve-souris",
+      "nameEn": "Bat",
+      "image": "images/chauve-souris.svg",
+      "thumbnail": "miniatures/chauve-souris.webp",
+      "tags": [
+        "halloween",
+        "chauve-souris",
+        "bat"
+      ]
+    },
+    {
+      "id": "halloween_chapeau_001",
+      "nameFr": "Chapeau de sorcière",
+      "nameEn": "Witch hat",
+      "image": "images/chapeau.svg",
+      "thumbnail": "miniatures/chapeau.webp",
+      "tags": [
+        "halloween",
+        "chapeau",
+        "witch hat"
+      ]
+    },
+    {
+      "id": "halloween_chat_noir_001",
+      "nameFr": "Chat noir",
+      "nameEn": "Black cat",
+      "image": "images/chat-noir.svg",
+      "thumbnail": "miniatures/chat-noir.webp",
+      "tags": [
+        "halloween",
+        "chat-noir",
+        "black cat"
+      ]
+    },
+    {
+      "id": "halloween_araignee_001",
+      "nameFr": "Araignée",
+      "nameEn": "Spider",
+      "image": "images/araignee.svg",
+      "thumbnail": "miniatures/araignee.webp",
+      "tags": [
+        "halloween",
+        "araignee",
+        "spider"
+      ]
+    },
+    {
+      "id": "halloween_bonbon_001",
+      "nameFr": "Bonbon",
+      "nameEn": "Candy",
+      "image": "images/bonbon.svg",
+      "thumbnail": "miniatures/bonbon.webp",
+      "tags": [
+        "halloween",
+        "bonbon",
+        "candy"
+      ]
+    },
+    {
+      "id": "halloween_crane_001",
+      "nameFr": "Crâne",
+      "nameEn": "Skull",
+      "image": "images/crane.svg",
+      "thumbnail": "miniatures/crane.webp",
+      "tags": [
+        "halloween",
+        "crane",
+        "skull"
+      ]
+    },
+    {
+      "id": "halloween_potion_001",
+      "nameFr": "Potion",
+      "nameEn": "Potion",
+      "image": "images/potion.svg",
+      "thumbnail": "miniatures/potion.webp",
+      "tags": [
+        "halloween",
+        "potion",
+        "potion"
+      ]
+    },
+    {
+      "id": "halloween_lune_001",
+      "nameFr": "Lune",
+      "nameEn": "Moon",
+      "image": "images/lune.svg",
+      "thumbnail": "miniatures/lune.webp",
+      "tags": [
+        "halloween",
+        "lune",
+        "moon"
+      ]
+    }
+  ]
+}

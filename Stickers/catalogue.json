@@ -1,0 +1,14 @@
+{
+  "kind": "sequens-sticker-index",
+  "version": 1,
+  "collections": [
+    {
+      "id": "halloween",
+      "nameFr": "Halloween",
+      "nameEn": "Halloween",
+      "url": "collections/halloween/collection.json",
+      "revision": 1,
+      "stickerCount": 10
+    }
+  ]
+}
