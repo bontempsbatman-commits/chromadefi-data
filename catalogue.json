@@ -1,5 +1,15 @@
 {
   "kind": "sequens-index",
   "version": 1,
-  "collections": []
+  "collections": [
+    {
+      "id": "test",
+      "nameFr": "Test",
+      "nameEn": "Test",
+      "url": "collections/test/collection.json",
+      "revision": 1,
+      "frameCount": 1
+    }
+  ],
+  "stickerCatalogUrl": "collections/test/stickers/catalogue.json"
 }
