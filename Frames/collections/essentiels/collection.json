@@ -60,6 +60,116 @@
         ]
       },
       "thumbnail": "miniatures/cadre-nznhv2ks.webp"
+    },
+    {
+      "id": "cadre-xr6k49x6",
+      "nameFr": "Diapositive",
+      "nameEn": "Slide",
+      "descFr": "",
+      "descEn": "",
+      "price": 0,
+      "badge": "",
+      "icon": "frame",
+      "type": "remote_slots",
+      "pageCount": 1,
+      "compatibleCounts": [
+        2
+      ],
+      "ratios": [
+        "story",
+        "square",
+        "portrait",
+        "landscape",
+        "banner"
+      ],
+      "defaultBw": false,
+      "defaultBwThreshold": 50,
+      "defaultBwSlots": [],
+      "images": {
+        "story": "images/cadre-xr6k49x6-story.png",
+        "square": "images/cadre-xr6k49x6-square.png",
+        "portrait": "images/cadre-xr6k49x6-portrait.png",
+        "landscape": "images/cadre-xr6k49x6-landscape.png",
+        "banner": "images/cadre-xr6k49x6-banner.png"
+      },
+      "slots": {
+        "square": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "defaultBw": true
+          },
+          {
+            "x": 21.31,
+            "y": 18.35,
+            "w": 57.5,
+            "h": 56.11
+          }
+        ],
+        "portrait": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "defaultBw": true
+          },
+          {
+            "x": 21.69,
+            "y": 18.51,
+            "w": 56.49,
+            "h": 55.18
+          }
+        ],
+        "story": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "defaultBw": true
+          },
+          {
+            "x": 18.28,
+            "y": 21.24,
+            "w": 63.44,
+            "h": 50.47
+          }
+        ],
+        "landscape": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "defaultBw": true
+          },
+          {
+            "x": 25.16,
+            "y": 16.81,
+            "w": 49.81,
+            "h": 58.85
+          }
+        ],
+        "banner": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "defaultBw": true
+          },
+          {
+            "x": 26.48,
+            "y": 16.75,
+            "w": 47.16,
+            "h": 59.04
+          }
+        ]
+      },
+      "thumbnail": "miniatures/cadre-xr6k49x6.webp"
     }
   ]
 }
