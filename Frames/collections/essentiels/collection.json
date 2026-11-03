@@ -73,7 +73,7 @@
       "type": "remote_slots",
       "pageCount": 1,
       "compatibleCounts": [
-        2
+        1
       ],
       "ratios": [
         "story",
@@ -99,13 +99,15 @@
             "y": 0,
             "w": 100,
             "h": 100,
-            "defaultBw": true
+            "defaultBw": true,
+            "photoSource": 0
           },
           {
             "x": 21.31,
             "y": 18.35,
             "w": 57.5,
-            "h": 56.11
+            "h": 56.11,
+            "photoSource": 0
           }
         ],
         "portrait": [
@@ -114,13 +116,15 @@
             "y": 0,
             "w": 100,
             "h": 100,
-            "defaultBw": true
+            "defaultBw": true,
+            "photoSource": 0
           },
           {
             "x": 21.69,
             "y": 18.51,
             "w": 56.49,
-            "h": 55.18
+            "h": 55.18,
+            "photoSource": 0
           }
         ],
         "story": [
@@ -129,13 +133,15 @@
             "y": 0,
             "w": 100,
             "h": 100,
-            "defaultBw": true
+            "defaultBw": true,
+            "photoSource": 0
           },
           {
             "x": 18.28,
             "y": 21.24,
             "w": 63.44,
-            "h": 50.47
+            "h": 50.47,
+            "photoSource": 0
           }
         ],
         "landscape": [
@@ -144,13 +150,15 @@
             "y": 0,
             "w": 100,
             "h": 100,
-            "defaultBw": true
+            "defaultBw": true,
+            "photoSource": 0
           },
           {
             "x": 25.16,
             "y": 16.81,
             "w": 49.81,
-            "h": 58.85
+            "h": 58.85,
+            "photoSource": 0
           }
         ],
         "banner": [
@@ -159,13 +167,15 @@
             "y": 0,
             "w": 100,
             "h": 100,
-            "defaultBw": true
+            "defaultBw": true,
+            "photoSource": 0
           },
           {
             "x": 26.48,
             "y": 16.75,
             "w": 47.16,
-            "h": 59.04
+            "h": 59.04,
+            "photoSource": 0
           }
         ]
       },
