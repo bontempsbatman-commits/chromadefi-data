@@ -9,6 +9,38 @@
       "url": "collections/halloween/collection.json",
       "revision": 1,
       "stickerCount": 10
+    },
+    {
+      "id": "amour",
+      "nameFr": "Amour",
+      "nameEn": "Love",
+      "url": "collections/amour/collection.json",
+      "revision": 1,
+      "stickerCount": 10
+    },
+    {
+      "id": "noel",
+      "nameFr": "Noël",
+      "nameEn": "Christmas",
+      "url": "collections/noel/collection.json",
+      "revision": 1,
+      "stickerCount": 10
+    },
+    {
+      "id": "fetes",
+      "nameFr": "Fêtes",
+      "nameEn": "Celebrations",
+      "url": "collections/fetes/collection.json",
+      "revision": 1,
+      "stickerCount": 10
+    },
+    {
+      "id": "nature",
+      "nameFr": "Nature",
+      "nameEn": "Nature",
+      "url": "collections/nature/collection.json",
+      "revision": 1,
+      "stickerCount": 10
     }
   ]
 }
