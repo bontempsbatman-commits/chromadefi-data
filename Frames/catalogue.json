@@ -3,35 +3,11 @@
   "version": 1,
   "collections": [
     {
-      "id": "automne",
+      "id": "essentiels",
       "revision": 1,
-      "nameFr": "Automne",
-      "nameEn": "Autumn",
-      "url": "collections/automne/collection.json",
-      "frameCount": 2
-    },
-    {
-      "id": "halloween",
-      "nameFr": "Halloween",
-      "nameEn": "Halloween",
-      "url": "collections/halloween/collection.json",
-      "revision": 1,
-      "frameCount": 1
-    },
-    {
-      "id": "cadre",
-      "revision": 1,
-      "nameFr": "Cadre",
-      "nameEn": "Frame",
-      "url": "collections/cadre/collection.json",
-      "frameCount": 1
-    },
-    {
-      "id": "test",
-      "revision": 1,
-      "nameFr": "Test",
-      "nameEn": "Test",
-      "url": "collections/test/collection.json",
+      "nameFr": "Essentiels",
+      "nameEn": "Essentials",
+      "url": "collections/essentiels/collection.json",
       "frameCount": 1
     }
   ]
