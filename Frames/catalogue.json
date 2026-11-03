@@ -4,11 +4,11 @@
   "collections": [
     {
       "id": "essentiels",
-      "revision": 1,
+      "revision": 2,
       "nameFr": "Essentiels",
       "nameEn": "Essentials",
       "url": "collections/essentiels/collection.json",
-      "frameCount": 1
+      "frameCount": 2
     }
   ]
 }
