@@ -1,0 +1,65 @@
+{
+  "version": 6,
+  "id": "essentiels",
+  "nameFr": "Essentiels",
+  "nameEn": "Essentials",
+  "frames": [
+    {
+      "id": "cadre-nznhv2ks",
+      "nameFr": "Diapositive",
+      "nameEn": "Slide",
+      "descFr": "",
+      "descEn": "",
+      "price": 0,
+      "badge": "",
+      "icon": "layout-grid",
+      "type": "remote_slots",
+      "pageCount": 1,
+      "compatibleCounts": [
+        4
+      ],
+      "ratios": [
+        "story"
+      ],
+      "defaultBw": false,
+      "defaultBwThreshold": 50,
+      "defaultBwSlots": [],
+      "images": {
+        "story": "images/cadre-nznhv2ks-story.png"
+      },
+      "slots": {
+        "square": [],
+        "story": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "defaultBw": true,
+            "nameEn": "Diapositive",
+            "nameFr": "Diapositive"
+          },
+          {
+            "x": 19.74,
+            "y": 8.97,
+            "w": 60.78,
+            "h": 24.97
+          },
+          {
+            "x": 19.74,
+            "y": 36.63,
+            "w": 60.59,
+            "h": 24.8
+          },
+          {
+            "x": 19.61,
+            "y": 64.22,
+            "w": 60.84,
+            "h": 22.35
+          }
+        ]
+      },
+      "thumbnail": "miniatures/cadre-nznhv2ks.webp"
+    }
+  ]
+}
