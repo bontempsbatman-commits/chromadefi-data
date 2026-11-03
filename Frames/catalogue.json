@@ -9,6 +9,14 @@
       "nameEn": "Essentials",
       "url": "collections/essentiels/collection.json",
       "frameCount": 2
+    },
+    {
+      "id": "autumn",
+      "revision": 1,
+      "nameFr": "Automne",
+      "nameEn": "Autumn",
+      "url": "collections/autumn/collection.json",
+      "frameCount": 1
     }
   ]
 }
