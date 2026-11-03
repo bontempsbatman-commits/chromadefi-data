@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "id": "amour",
+  "nameFr": "Amour",
+  "nameEn": "Love",
+  "stickers": [
+    {
+      "id": "amour_coeur_001",
+      "nameFr": "Cœur lumineux",
+      "nameEn": "Glowing heart",
+      "image": "images/coeur.svg",
+      "thumbnail": "miniatures/coeur.webp",
+      "tags": [
+        "amour",
+        "coeur",
+        "heart",
+        "romance"
+      ]
+    },
+    {
+      "id": "amour_duo_001",
+      "nameFr": "Deux cœurs",
+      "nameEn": "Heart duo",
+      "image": "images/duo.svg",
+      "thumbnail": "miniatures/duo.webp",
+      "tags": [
+        "amour",
+        "couple",
+        "coeurs",
+        "love"
+      ]
+    },
+    {
+      "id": "amour_lettre_001",
+      "nameFr": "Lettre d’amour",
+      "nameEn": "Love letter",
+      "image": "images/lettre.svg",
+      "thumbnail": "miniatures/lettre.webp",
+      "tags": [
+        "amour",
+        "enveloppe",
+        "letter",
+        "love"
+      ]
+    },
+    {
+      "id": "amour_fleche_001",
+      "nameFr": "Flèche de Cupidon",
+      "nameEn": "Cupid’s arrow",
+      "image": "images/fleche.svg",
+      "thumbnail": "miniatures/fleche.webp",
+      "tags": [
+        "amour",
+        "cupidon",
+        "arrow",
+        "heart"
+      ]
+    },
+    {
+      "id": "amour_bagues_001",
+      "nameFr": "Bagues liées",
+      "nameEn": "Interlocking rings",
+      "image": "images/bagues.svg",
+      "thumbnail": "miniatures/bagues.webp",
+      "tags": [
+        "amour",
+        "bague",
+        "ring",
+        "wedding"
+      ]
+    },
+    {
+      "id": "amour_baiser_001",
+      "nameFr": "Bisou",
+      "nameEn": "Kiss print",
+      "image": "images/baiser.svg",
+      "thumbnail": "miniatures/baiser.webp",
+      "tags": [
+        "amour",
+        "lèvres",
+        "lips",
+        "kiss"
+      ]
+    },
+    {
+      "id": "amour_bouquet_001",
+      "nameFr": "Bouquet tendre",
+      "nameEn": "Romantic bouquet",
+      "image": "images/bouquet.svg",
+      "thumbnail": "miniatures/bouquet.webp",
+      "tags": [
+        "amour",
+        "fleurs",
+        "flowers",
+        "bouquet"
+      ]
+    },
+    {
+      "id": "amour_ballon_coeur_001",
+      "nameFr": "Ballon cœur",
+      "nameEn": "Heart balloon",
+      "image": "images/ballon-coeur.svg",
+      "thumbnail": "miniatures/ballon-coeur.webp",
+      "tags": [
+        "amour",
+        "ballon",
+        "balloon",
+        "love"
+      ]
+    },
+    {
+      "id": "amour_cadenas_001",
+      "nameFr": "Cadenas amoureux",
+      "nameEn": "Love lock",
+      "image": "images/cadenas.svg",
+      "thumbnail": "miniatures/cadenas.webp",
+      "tags": [
+        "amour",
+        "cadenas",
+        "lock",
+        "love"
+      ]
+    },
+    {
+      "id": "amour_ourson_001",
+      "nameFr": "Ourson au cœur",
+      "nameEn": "Heart teddy",
+      "image": "images/ourson.svg",
+      "thumbnail": "miniatures/ourson.webp",
+      "tags": [
+        "amour",
+        "ourson",
+        "teddy",
+        "love"
+      ]
+    }
+  ]
+}

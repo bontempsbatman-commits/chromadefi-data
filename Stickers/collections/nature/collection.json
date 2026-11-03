@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "id": "nature",
+  "nameFr": "Nature",
+  "nameEn": "Nature",
+  "stickers": [
+    {
+      "id": "nature_montagne_001",
+      "nameFr": "Sommets alpins",
+      "nameEn": "Alpine peaks",
+      "image": "images/montagne.svg",
+      "thumbnail": "miniatures/montagne.webp",
+      "tags": [
+        "nature",
+        "montagne",
+        "mountain",
+        "paysage"
+      ]
+    },
+    {
+      "id": "nature_monstera_001",
+      "nameFr": "Feuille de monstera",
+      "nameEn": "Monstera leaf",
+      "image": "images/monstera.svg",
+      "thumbnail": "miniatures/monstera.webp",
+      "tags": [
+        "nature",
+        "feuille",
+        "leaf",
+        "tropical"
+      ]
+    },
+    {
+      "id": "nature_marguerite_001",
+      "nameFr": "Marguerite",
+      "nameEn": "Daisy",
+      "image": "images/marguerite.svg",
+      "thumbnail": "miniatures/marguerite.webp",
+      "tags": [
+        "nature",
+        "fleur",
+        "flower",
+        "daisy"
+      ]
+    },
+    {
+      "id": "nature_papillon_001",
+      "nameFr": "Papillon de prairie",
+      "nameEn": "Meadow butterfly",
+      "image": "images/papillon.svg",
+      "thumbnail": "miniatures/papillon.webp",
+      "tags": [
+        "nature",
+        "papillon",
+        "butterfly",
+        "insecte"
+      ]
+    },
+    {
+      "id": "nature_abeille_001",
+      "nameFr": "Petite abeille",
+      "nameEn": "Little bee",
+      "image": "images/abeille.svg",
+      "thumbnail": "miniatures/abeille.webp",
+      "tags": [
+        "nature",
+        "abeille",
+        "bee",
+        "insecte"
+      ]
+    },
+    {
+      "id": "nature_champignons_001",
+      "nameFr": "Champignons des bois",
+      "nameEn": "Woodland mushrooms",
+      "image": "images/champignons.svg",
+      "thumbnail": "miniatures/champignons.webp",
+      "tags": [
+        "nature",
+        "champignon",
+        "mushroom",
+        "foret"
+      ]
+    },
+    {
+      "id": "nature_vague_001",
+      "nameFr": "Vague du large",
+      "nameEn": "Ocean wave",
+      "image": "images/vague.svg",
+      "thumbnail": "miniatures/vague.webp",
+      "tags": [
+        "nature",
+        "vague",
+        "ocean",
+        "sea"
+      ]
+    },
+    {
+      "id": "nature_soleil_001",
+      "nameFr": "Soleil doux",
+      "nameEn": "Soft sunshine",
+      "image": "images/soleil.svg",
+      "thumbnail": "miniatures/soleil.webp",
+      "tags": [
+        "nature",
+        "soleil",
+        "sun",
+        "weather"
+      ]
+    },
+    {
+      "id": "nature_cactus_001",
+      "nameFr": "Cactus fleuri",
+      "nameEn": "Blooming cactus",
+      "image": "images/cactus.svg",
+      "thumbnail": "miniatures/cactus.webp",
+      "tags": [
+        "nature",
+        "cactus",
+        "plante",
+        "desert"
+      ]
+    },
+    {
+      "id": "nature_escargot_001",
+      "nameFr": "Escargot du jardin",
+      "nameEn": "Garden snail",
+      "image": "images/escargot.svg",
+      "thumbnail": "miniatures/escargot.webp",
+      "tags": [
+        "nature",
+        "escargot",
+        "snail",
+        "jardin"
+      ]
+    }
+  ]
+}

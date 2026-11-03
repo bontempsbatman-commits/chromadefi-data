@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "id": "noel",
+  "nameFr": "Noël",
+  "nameEn": "Christmas",
+  "stickers": [
+    {
+      "id": "noel_sapin_001",
+      "nameFr": "Sapin décoré",
+      "nameEn": "Christmas tree",
+      "image": "images/sapin.svg",
+      "thumbnail": "miniatures/sapin.webp",
+      "tags": [
+        "noel",
+        "sapin",
+        "tree",
+        "christmas"
+      ]
+    },
+    {
+      "id": "noel_flocon_001",
+      "nameFr": "Flocon givré",
+      "nameEn": "Frosted snowflake",
+      "image": "images/flocon.svg",
+      "thumbnail": "miniatures/flocon.webp",
+      "tags": [
+        "noel",
+        "neige",
+        "snow",
+        "snowflake"
+      ]
+    },
+    {
+      "id": "noel_bonnet_001",
+      "nameFr": "Bonnet du Père Noël",
+      "nameEn": "Santa hat",
+      "image": "images/bonnet.svg",
+      "thumbnail": "miniatures/bonnet.webp",
+      "tags": [
+        "noel",
+        "pere noel",
+        "santa",
+        "hat"
+      ]
+    },
+    {
+      "id": "noel_boule_001",
+      "nameFr": "Boule de Noël",
+      "nameEn": "Christmas ornament",
+      "image": "images/boule.svg",
+      "thumbnail": "miniatures/boule.webp",
+      "tags": [
+        "noel",
+        "ornement",
+        "boule",
+        "ornament"
+      ]
+    },
+    {
+      "id": "noel_cadeau_001",
+      "nameFr": "Cadeau de Noël",
+      "nameEn": "Christmas gift",
+      "image": "images/cadeau.svg",
+      "thumbnail": "miniatures/cadeau.webp",
+      "tags": [
+        "noel",
+        "cadeau",
+        "gift",
+        "christmas"
+      ]
+    },
+    {
+      "id": "noel_sucre_orge_001",
+      "nameFr": "Sucre d’orge",
+      "nameEn": "Candy cane",
+      "image": "images/sucre-orge.svg",
+      "thumbnail": "miniatures/sucre-orge.webp",
+      "tags": [
+        "noel",
+        "bonbon",
+        "candy",
+        "cane"
+      ]
+    },
+    {
+      "id": "noel_gingembre_001",
+      "nameFr": "Pain d’épices",
+      "nameEn": "Gingerbread person",
+      "image": "images/gingembre.svg",
+      "thumbnail": "miniatures/gingembre.webp",
+      "tags": [
+        "noel",
+        "biscuit",
+        "gingerbread",
+        "cookie"
+      ]
+    },
+    {
+      "id": "noel_houx_001",
+      "nameFr": "Brin de houx",
+      "nameEn": "Holly sprig",
+      "image": "images/houx.svg",
+      "thumbnail": "miniatures/houx.webp",
+      "tags": [
+        "noel",
+        "houx",
+        "holly",
+        "plante"
+      ]
+    },
+    {
+      "id": "noel_bonhomme_neige_001",
+      "nameFr": "Bonhomme de neige",
+      "nameEn": "Snowman",
+      "image": "images/bonhomme-neige.svg",
+      "thumbnail": "miniatures/bonhomme-neige.webp",
+      "tags": [
+        "noel",
+        "neige",
+        "snow",
+        "snowman"
+      ]
+    },
+    {
+      "id": "noel_cloche_001",
+      "nameFr": "Cloche de Noël",
+      "nameEn": "Christmas bell",
+      "image": "images/cloche.svg",
+      "thumbnail": "miniatures/cloche.webp",
+      "tags": [
+        "noel",
+        "cloche",
+        "bell",
+        "christmas"
+      ]
+    }
+  ]
+}

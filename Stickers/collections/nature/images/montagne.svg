@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img">
+<title>Sommets alpins</title>
+<defs><filter id="sticker" x="0" y="0" width="256" height="256" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feMorphology in="SourceAlpha" operator="dilate" radius="5" result="edge"/><feFlood flood-color="#fffaf3"/><feComposite in2="edge" operator="in"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<g stroke-linecap="round" stroke-linejoin="round" filter="url(#sticker)"><circle cx="178" cy="75" r="25" fill="#ffcb68" stroke="#3b2b38" stroke-width="6"/><path d="M35 187L94 91L122 132L158 74L223 187Z" fill="#5798bf" stroke="#3b2b38" stroke-width="6"/><path d="M70 129L94 91L120 128L107 123L96 136L84 125ZM137 108L158 74L180 109L166 104L157 119L148 105Z" fill="#fffaf3" stroke="#3b2b38" stroke-width="4"/><path d="M36 188Q86 174 128 193Q167 173 222 188L222 204H36Z" fill="#a9d3ae" stroke="#3b2b38" stroke-width="6"/><path d="M67 195H92M178 195H196" fill="none" stroke="#438b6a" stroke-width="4"/></g>
+</svg>

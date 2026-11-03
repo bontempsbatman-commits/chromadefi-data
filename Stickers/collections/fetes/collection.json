@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "id": "fetes",
+  "nameFr": "Fêtes",
+  "nameEn": "Celebrations",
+  "stickers": [
+    {
+      "id": "fetes_confettis_001",
+      "nameFr": "Canon à confettis",
+      "nameEn": "Party popper",
+      "image": "images/confettis.svg",
+      "thumbnail": "miniatures/confettis.webp",
+      "tags": [
+        "fetes",
+        "confettis",
+        "party",
+        "celebration"
+      ]
+    },
+    {
+      "id": "fetes_ballons_001",
+      "nameFr": "Trio de ballons",
+      "nameEn": "Balloon bunch",
+      "image": "images/ballons.svg",
+      "thumbnail": "miniatures/ballons.webp",
+      "tags": [
+        "fetes",
+        "ballons",
+        "balloons",
+        "party"
+      ]
+    },
+    {
+      "id": "fetes_gateau_001",
+      "nameFr": "Gâteau d’anniversaire",
+      "nameEn": "Birthday cake",
+      "image": "images/gateau.svg",
+      "thumbnail": "miniatures/gateau.webp",
+      "tags": [
+        "fetes",
+        "gateau",
+        "cake",
+        "birthday"
+      ]
+    },
+    {
+      "id": "fetes_boule_disco_001",
+      "nameFr": "Boule disco",
+      "nameEn": "Disco ball",
+      "image": "images/boule-disco.svg",
+      "thumbnail": "miniatures/boule-disco.webp",
+      "tags": [
+        "fetes",
+        "disco",
+        "musique",
+        "party"
+      ]
+    },
+    {
+      "id": "fetes_toast_001",
+      "nameFr": "Santé !",
+      "nameEn": "Cheers",
+      "image": "images/toast.svg",
+      "thumbnail": "miniatures/toast.webp",
+      "tags": [
+        "fetes",
+        "coupe",
+        "toast",
+        "cheers"
+      ]
+    },
+    {
+      "id": "fetes_chapeau_001",
+      "nameFr": "Chapeau de fête",
+      "nameEn": "Party hat",
+      "image": "images/chapeau.svg",
+      "thumbnail": "miniatures/chapeau.webp",
+      "tags": [
+        "fetes",
+        "chapeau",
+        "party hat",
+        "birthday"
+      ]
+    },
+    {
+      "id": "fetes_cadeau_fete_001",
+      "nameFr": "Cadeau surprise",
+      "nameEn": "Surprise gift",
+      "image": "images/cadeau-fete.svg",
+      "thumbnail": "miniatures/cadeau-fete.webp",
+      "tags": [
+        "fetes",
+        "cadeau",
+        "gift",
+        "birthday"
+      ]
+    },
+    {
+      "id": "fetes_feu_artifice_001",
+      "nameFr": "Feu d’artifice",
+      "nameEn": "Fireworks",
+      "image": "images/feu-artifice.svg",
+      "thumbnail": "miniatures/feu-artifice.webp",
+      "tags": [
+        "fetes",
+        "feu d’artifice",
+        "fireworks",
+        "celebration"
+      ]
+    },
+    {
+      "id": "fetes_guirlande_001",
+      "nameFr": "Guirlande de fanions",
+      "nameEn": "Party bunting",
+      "image": "images/guirlande.svg",
+      "thumbnail": "miniatures/guirlande.webp",
+      "tags": [
+        "fetes",
+        "guirlande",
+        "bunting",
+        "party"
+      ]
+    },
+    {
+      "id": "fetes_masque_001",
+      "nameFr": "Masque de carnaval",
+      "nameEn": "Carnival mask",
+      "image": "images/masque.svg",
+      "thumbnail": "miniatures/masque.webp",
+      "tags": [
+        "fetes",
+        "masque",
+        "mask",
+        "carnival"
+      ]
+    }
+  ]
+}
