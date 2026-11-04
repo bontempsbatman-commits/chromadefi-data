@@ -25,6 +25,14 @@
       "nameEn": "Sports",
       "url": "collections/sport/collection.json",
       "frameCount": 3
+    },
+    {
+      "id": "divers",
+      "nameFr": "Divers",
+      "nameEn": "Divers",
+      "url": "collections/divers/collection.json",
+      "revision": 1,
+      "frameCount": 1
     }
   ]
 }
