@@ -6,8 +6,8 @@
   "frames": [
     {
       "id": "cadre-nznhv2ks",
-      "nameFr": "Diapositive",
-      "nameEn": "Slide",
+      "nameFr": "",
+      "nameEn": "",
       "descFr": "",
       "descEn": "",
       "price": 0,
@@ -59,17 +59,18 @@
           }
         ]
       },
-      "thumbnail": "miniatures/cadre-nznhv2ks.webp"
+      "thumbnail": "miniatures/cadre-nznhv2ks.webp",
+      "publishedAt": "2026-11-04"
     },
     {
       "id": "cadre-xr6k49x6",
-      "nameFr": "Diapositive",
-      "nameEn": "Slide",
+      "nameFr": "",
+      "nameEn": "",
       "descFr": "",
       "descEn": "",
       "price": 0,
       "badge": "Essentiels",
-      "icon": "frame",
+      "icon": "layout-grid",
       "type": "remote_slots",
       "pageCount": 1,
       "compatibleCounts": [
@@ -179,17 +180,18 @@
           }
         ]
       },
-      "thumbnail": "miniatures/cadre-xr6k49x6.webp"
+      "thumbnail": "miniatures/cadre-xr6k49x6.webp",
+      "publishedAt": "2026-11-04"
     },
     {
       "id": "cadre-asstzh2m",
-      "nameFr": "Encre",
-      "nameEn": "Ink",
+      "nameFr": "",
+      "nameEn": "",
       "descFr": "",
       "descEn": "",
       "price": 0,
       "badge": "Essentiels",
-      "icon": "frame",
+      "icon": "layout-grid",
       "type": "remote_slots",
       "pageCount": 5,
       "compatibleCounts": [
@@ -311,7 +313,8 @@
           }
         ]
       },
-      "thumbnail": "miniatures/cadre-asstzh2m.webp"
+      "thumbnail": "miniatures/cadre-asstzh2m.webp",
+      "publishedAt": "2026-11-04"
     }
   ]
 }
