@@ -1,0 +1,44 @@
+{
+  "fonts": [
+    {
+      "id": "caveat",
+      "name": "Caveat",
+      "file": "files/caveat.woff2"
+    },
+    {
+      "id": "pacifico",
+      "name": "Pacifico",
+      "file": "files/pacifico.woff2"
+    },
+    {
+      "id": "pixelify-sans",
+      "name": "Pixelify Sans",
+      "file": "files/pixelify-sans.woff2"
+    },
+    {
+      "id": "vt323",
+      "name": "VT323",
+      "file": "files/vt323.woff2"
+    },
+    {
+      "id": "cormorant-garamond",
+      "name": "Cormorant Garamond",
+      "file": "files/cormorant-garamond.woff2"
+    },
+    {
+      "id": "montserrat",
+      "name": "Montserrat",
+      "file": "files/montserrat.woff2"
+    },
+    {
+      "id": "bebas-neue",
+      "name": "Bebas Neue",
+      "file": "files/bebas-neue.woff2"
+    },
+    {
+      "id": "courier-prime",
+      "name": "Courier Prime",
+      "file": "files/courier-prime.woff2"
+    }
+  ]
+}
