@@ -1,0 +1,96 @@
+{
+  "version": 6,
+  "id": "sport",
+  "nameFr": "Sport",
+  "nameEn": "Sports",
+  "frames": [
+    {
+      "id": "cadre-z7xdtm5q",
+      "nameFr": "",
+      "nameEn": "",
+      "descFr": "",
+      "descEn": "",
+      "price": 0,
+      "badge": "Sport",
+      "icon": "layout-grid",
+      "type": "remote_overlay",
+      "pageCount": 1,
+      "compatibleCounts": [
+        1
+      ],
+      "ratios": [
+        "square"
+      ],
+      "defaultBw": false,
+      "defaultBwThreshold": 50,
+      "defaultBwSlots": [],
+      "images": {
+        "square": "images/cadre-z7xdtm5q-square.png"
+      },
+      "slots": {
+        "story": []
+      },
+      "publishedAt": "2026-11-04",
+      "thumbnail": "miniatures/cadre-z7xdtm5q.webp"
+    },
+    {
+      "id": "cadre-z9taof8t",
+      "nameFr": "",
+      "nameEn": "",
+      "descFr": "",
+      "descEn": "",
+      "price": 0,
+      "badge": "Sport",
+      "icon": "layout-grid",
+      "type": "remote_overlay",
+      "pageCount": 1,
+      "compatibleCounts": [
+        1
+      ],
+      "ratios": [
+        "square"
+      ],
+      "defaultBw": false,
+      "defaultBwThreshold": 50,
+      "defaultBwSlots": [],
+      "images": {
+        "square": "images/cadre-z9taof8t-square.png"
+      },
+      "slots": {
+        "story": []
+      },
+      "publishedAt": "2026-11-04",
+      "thumbnail": "miniatures/cadre-z9taof8t.webp"
+    },
+    {
+      "id": "cadre-qd157se0",
+      "nameFr": "",
+      "nameEn": "",
+      "descFr": "",
+      "descEn": "",
+      "price": 0,
+      "badge": "Sport",
+      "icon": "layout-grid",
+      "type": "remote_overlay",
+      "pageCount": 1,
+      "compatibleCounts": [
+        1
+      ],
+      "ratios": [
+        "square"
+      ],
+      "defaultBw": false,
+      "defaultBwThreshold": 50,
+      "defaultBwSlots": [],
+      "images": {
+        "square": "images/cadre-qd157se0-square.png"
+      },
+      "slots": {
+        "story": [],
+        "square": []
+      },
+      "publishedAt": "2026-11-04",
+      "thumbnail": "miniatures/cadre-qd157se0.webp"
+    }
+  ]
+}
