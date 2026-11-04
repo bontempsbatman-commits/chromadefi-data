@@ -1,0 +1,22 @@
+{
+  "kind": "sequens-index",
+  "version": 1,
+  "collections": [
+    {
+      "id": "essentiels",
+      "revision": 4,
+      "nameFr": "Essentiels",
+      "nameEn": "Essentials",
+      "url": "collections/essentiels/collection.json",
+      "frameCount": 3
+    },
+    {
+      "id": "autumn",
+      "revision": 2,
+      "nameFr": "Automne",
+      "nameEn": "Autumn",
+      "url": "collections/autumn/collection.json",
+      "frameCount": 1
+    }
+  ]
+}
