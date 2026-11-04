@@ -17,6 +17,14 @@
       "nameEn": "Autumn",
       "url": "collections/autumn/collection.json",
       "frameCount": 1
+    },
+    {
+      "id": "sport",
+      "revision": 1,
+      "nameFr": "Sport",
+      "nameEn": "Sports",
+      "url": "collections/sport/collection.json",
+      "frameCount": 3
     }
   ]
 }
