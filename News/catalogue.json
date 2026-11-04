@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "announcements": [
+    {
+      "id": "galerie-collections-01",
+      "title": "La galerie évolue",
+      "message": "Retrouve les modèles par collection et découvre les derniers ajouts dans Nouveautés. Escapade rejoint le badge Voyage.",
+      "target": "templates"
+    }
+  ]
+}
