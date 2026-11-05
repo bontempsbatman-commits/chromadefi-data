@@ -1,0 +1,93 @@
+{
+  "version": 6,
+  "id": "photographie",
+  "nameFr": "Photographie",
+  "nameEn": "Photography",
+  "frames": [
+    {
+      "id": "cadre-0ir7ixmp",
+      "nameFr": "Reflex B&W",
+      "nameEn": "Reflex B&W",
+      "descFr": "",
+      "descEn": "",
+      "price": 0,
+      "badge": "Photographie",
+      "icon": "layout-grid",
+      "type": "remote_overlay",
+      "pageCount": 1,
+      "compatibleCounts": [
+        1
+      ],
+      "ratios": [
+        "story",
+        "landscape"
+      ],
+      "defaultBw": false,
+      "defaultBwThreshold": 10,
+      "defaultBwSlots": [],
+      "images": {
+        "story": "images/cadre-0ir7ixmp-story.png",
+        "landscape": "images/cadre-0ir7ixmp-landscape.png"
+      },
+      "slots": {
+        "story": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100
+          }
+        ],
+        "landscape": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100
+          }
+        ]
+      },
+      "publishedAt": "2026-11-05",
+      "defaultEffectAmount": 100,
+      "defaultEffect": "bw",
+      "thumbnailCounts": {
+        "story": 1,
+        "landscape": 1
+      },
+      "thumbnail": "miniatures/cadre-0ir7ixmp.webp"
+    },
+    {
+      "id": "cadre-v3sdhjef",
+      "nameFr": "Caméscope",
+      "nameEn": "Camcorder",
+      "descFr": "",
+      "descEn": "",
+      "price": 0,
+      "badge": "Photographie",
+      "icon": "layout-grid",
+      "type": "remote_overlay",
+      "pageCount": 1,
+      "compatibleCounts": [
+        1
+      ],
+      "ratios": [
+        "story",
+        "landscape"
+      ],
+      "defaultBw": false,
+      "defaultBwThreshold": 50,
+      "defaultBwSlots": [],
+      "images": {
+        "story": "images/cadre-v3sdhjef-story.png",
+        "landscape": "images/cadre-v3sdhjef-landscape.png"
+      },
+      "slots": {},
+      "publishedAt": "2026-11-05",
+      "thumbnailCounts": {
+        "story": 1,
+        "landscape": 1
+      },
+      "thumbnail": "miniatures/cadre-v3sdhjef.webp"
+    }
+  ]
+}
