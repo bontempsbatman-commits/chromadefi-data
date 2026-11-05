@@ -4,15 +4,15 @@
   "collections": [
     {
       "id": "essentiels",
-      "revision": 5,
+      "revision": 7,
       "nameFr": "Essentiels",
       "nameEn": "Essentials",
       "url": "collections/essentiels/collection.json",
-      "frameCount": 3
+      "frameCount": 4
     },
     {
       "id": "autumn",
-      "revision": 3,
+      "revision": 4,
       "nameFr": "Automne",
       "nameEn": "Autumn",
       "url": "collections/autumn/collection.json",
@@ -20,7 +20,7 @@
     },
     {
       "id": "sport",
-      "revision": 1,
+      "revision": 2,
       "nameFr": "Sport",
       "nameEn": "Sports",
       "url": "collections/sport/collection.json",
@@ -31,8 +31,24 @@
       "nameFr": "Divers",
       "nameEn": "Divers",
       "url": "collections/divers/collection.json",
-      "revision": 1,
+      "revision": 2,
       "frameCount": 1
+    },
+    {
+      "id": "artistique",
+      "revision": 2,
+      "nameFr": "Artistique",
+      "nameEn": "Artistic",
+      "url": "collections/artistique/collection.json",
+      "frameCount": 7
+    },
+    {
+      "id": "photographie",
+      "revision": 2,
+      "nameFr": "Photographie",
+      "nameEn": "Photography",
+      "url": "collections/photographie/collection.json",
+      "frameCount": 2
     }
   ]
 }
