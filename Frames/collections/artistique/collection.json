@@ -1,0 +1,505 @@
+{
+  "version": 6,
+  "id": "artistique",
+  "nameFr": "Artistique",
+  "nameEn": "Artistic",
+  "frames": [
+    {
+      "id": "cadre-w5d35owx",
+      "nameFr": "",
+      "nameEn": "",
+      "descFr": "",
+      "descEn": "",
+      "price": 0,
+      "icon": "layout-grid",
+      "type": "remote_overlay",
+      "pageCount": 1,
+      "compatibleCounts": [
+        1
+      ],
+      "ratios": [
+        "story"
+      ],
+      "defaultBw": false,
+      "defaultBwThreshold": 50,
+      "defaultBwSlots": [],
+      "images": {
+        "story": "images/cadre-w5d35owx-story.png"
+      },
+      "slots": {
+        "story": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100
+          }
+        ]
+      },
+      "publishedAt": "2026-11-05",
+      "defaultEffect": "bw",
+      "defaultEffectAmount": 100,
+      "categories": [
+        "artistique",
+        "mode",
+        "photographie",
+        "minimaliste"
+      ],
+      "thumbnailCounts": {
+        "story": 1
+      },
+      "thumbnailRatio": "story",
+      "thumbnail": "miniatures/cadre-w5d35owx.webp"
+    },
+    {
+      "id": "cadre-5wn57ble",
+      "nameFr": "Arc-en-ciel",
+      "nameEn": "Rainbow",
+      "descFr": "",
+      "descEn": "",
+      "price": 0,
+      "icon": "layout-grid",
+      "type": "remote_overlay",
+      "pageCount": 1,
+      "compatibleCounts": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "ratios": [
+        "story"
+      ],
+      "defaultBw": false,
+      "defaultBwThreshold": 50,
+      "defaultBwSlots": [],
+      "images": {
+        "story": "images/cadre-5wn57ble-story.png"
+      },
+      "slots": {
+        "story": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100
+          }
+        ]
+      },
+      "publishedAt": "2026-11-05",
+      "defaultEffect": "none",
+      "thumbnailCounts": {
+        "story": 5
+      },
+      "categories": [
+        "artistique",
+        "voyage",
+        "urbain"
+      ],
+      "thumbnailRatio": "story",
+      "thumbnail": "miniatures/cadre-5wn57ble.webp"
+    },
+    {
+      "id": "cadre-cfzhaa32",
+      "nameFr": "Plastique",
+      "nameEn": "Plastic",
+      "descFr": "",
+      "descEn": "",
+      "price": 0,
+      "icon": "layout-grid",
+      "type": "remote_overlay",
+      "pageCount": 1,
+      "compatibleCounts": [
+        1
+      ],
+      "ratios": [
+        "story"
+      ],
+      "defaultBw": false,
+      "defaultBwThreshold": 50,
+      "defaultBwSlots": [],
+      "images": {
+        "story": "images/cadre-cfzhaa32-story.png"
+      },
+      "slots": {
+        "story": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100
+          }
+        ]
+      },
+      "publishedAt": "2026-11-05",
+      "defaultEffect": "none",
+      "categories": [
+        "artistique",
+        "mode"
+      ],
+      "thumbnailCounts": {
+        "story": 1
+      },
+      "thumbnailRatio": "story",
+      "thumbnail": "miniatures/cadre-cfzhaa32.webp"
+    },
+    {
+      "id": "cadre-8dxosleq",
+      "nameFr": "Plastique Glitch",
+      "nameEn": "Plastic Glitch",
+      "descFr": "",
+      "descEn": "",
+      "price": 0,
+      "icon": "layout-grid",
+      "type": "remote_overlay",
+      "pageCount": 1,
+      "compatibleCounts": [
+        1
+      ],
+      "ratios": [
+        "story"
+      ],
+      "defaultBw": false,
+      "defaultBwThreshold": 50,
+      "defaultBwSlots": [],
+      "images": {
+        "story": "images/cadre-8dxosleq-story.png"
+      },
+      "slots": {
+        "story": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "defaultBw": false
+          }
+        ]
+      },
+      "publishedAt": "2026-11-05",
+      "defaultEffect": "glitch",
+      "categories": [
+        "artistique",
+        "mode"
+      ],
+      "thumbnailCounts": {
+        "story": 1
+      },
+      "thumbnailRatio": "story",
+      "thumbnail": "miniatures/cadre-8dxosleq.webp"
+    },
+    {
+      "id": "cadre-0v4hbzke",
+      "nameFr": "",
+      "nameEn": "",
+      "descFr": "",
+      "descEn": "",
+      "price": 0,
+      "icon": "layout-grid",
+      "type": "remote_overlay",
+      "pageCount": 1,
+      "compatibleCounts": [
+        1
+      ],
+      "ratios": [
+        "story",
+        "square",
+        "portrait"
+      ],
+      "defaultBw": false,
+      "defaultBwThreshold": 50,
+      "defaultBwSlots": [],
+      "images": {
+        "square": "images/cadre-0v4hbzke-square.png",
+        "portrait": "images/cadre-0v4hbzke-portrait.png",
+        "story": "images/cadre-0v4hbzke-story.png"
+      },
+      "slots": {
+        "square": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100
+          }
+        ],
+        "portrait": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100
+          }
+        ],
+        "story": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100
+          }
+        ]
+      },
+      "publishedAt": "2026-11-05",
+      "defaultEffect": "none",
+      "categories": [
+        "artistique"
+      ],
+      "thumbnailCounts": {
+        "story": 1,
+        "square": 1,
+        "portrait": 1
+      },
+      "thumbnailRatio": "portrait",
+      "thumbnail": "miniatures/cadre-0v4hbzke.webp"
+    },
+    {
+      "id": "cadre-k7lysmh2",
+      "nameFr": "",
+      "nameEn": "",
+      "descFr": "",
+      "descEn": "",
+      "price": 0,
+      "icon": "layout-grid",
+      "type": "remote_overlay",
+      "pageCount": 1,
+      "compatibleCounts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "ratios": [
+        "story",
+        "square",
+        "portrait"
+      ],
+      "defaultBw": false,
+      "defaultBwThreshold": 50,
+      "defaultBwSlots": [],
+      "images": {
+        "square": "images/cadre-k7lysmh2-square.png",
+        "portrait": "images/cadre-k7lysmh2-portrait.png",
+        "story": "images/cadre-k7lysmh2-story.png"
+      },
+      "slots": {
+        "square": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100
+          }
+        ],
+        "portrait": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100
+          }
+        ],
+        "story": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100
+          }
+        ]
+      },
+      "publishedAt": "2026-11-05",
+      "defaultEffect": "none",
+      "thumbnailCounts": {
+        "story": 2,
+        "square": 1,
+        "portrait": 1
+      },
+      "categories": [
+        "artistique",
+        "mode"
+      ],
+      "thumbnailRatio": "square",
+      "thumbnail": "miniatures/cadre-k7lysmh2.webp"
+    },
+    {
+      "id": "cadre-h35hbjla",
+      "nameFr": "",
+      "nameEn": "",
+      "descFr": "",
+      "descEn": "",
+      "price": 0,
+      "icon": "layout-grid",
+      "type": "remote_overlay",
+      "pageCount": 1,
+      "compatibleCounts": [
+        1
+      ],
+      "ratios": [
+        "story",
+        "square",
+        "portrait"
+      ],
+      "defaultBw": false,
+      "defaultBwThreshold": 10,
+      "defaultBwSlots": [],
+      "images": {
+        "square": "images/cadre-h35hbjla-square.png",
+        "portrait": "images/cadre-h35hbjla-portrait.png",
+        "story": "images/cadre-h35hbjla-story.png"
+      },
+      "slots": {
+        "square": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100
+          }
+        ],
+        "portrait": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100
+          }
+        ],
+        "story": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100
+          }
+        ]
+      },
+      "defaultEffect": "halftone",
+      "defaultEffectAmount": 15,
+      "publishedAt": "2026-11-05",
+      "categories": [
+        "artistique",
+        "mode"
+      ],
+      "thumbnailCounts": {
+        "story": 1,
+        "square": 1,
+        "portrait": 1
+      },
+      "thumbnailRatio": "story",
+      "thumbnail": "miniatures/cadre-h35hbjla.webp"
+    },
+    {
+      "id": "cadre-pq6arm10",
+      "nameFr": "",
+      "nameEn": "",
+      "descFr": "",
+      "descEn": "",
+      "price": 0,
+      "icon": "layout-grid",
+      "type": "remote_overlay",
+      "pageCount": 1,
+      "compatibleCounts": [
+        1
+      ],
+      "ratios": [
+        "story",
+        "square",
+        "portrait"
+      ],
+      "defaultBw": false,
+      "defaultBwThreshold": 50,
+      "defaultBwSlots": [],
+      "images": {
+        "square": "images/cadre-pq6arm10-square.png",
+        "portrait": "images/cadre-pq6arm10-portrait.png",
+        "story": "images/cadre-pq6arm10-story.png"
+      },
+      "slots": {},
+      "categories": [
+        "artistique",
+        "minimaliste",
+        "mode"
+      ],
+      "thumbnailCounts": {
+        "story": 1,
+        "square": 1,
+        "portrait": 1
+      },
+      "thumbnailRatio": "square",
+      "thumbnail": "miniatures/cadre-pq6arm10.webp"
+    }
+  ],
+  "categoryDefinitions": [
+    {
+      "id": "amour",
+      "nameFr": "Amour"
+    },
+    {
+      "id": "artistique",
+      "nameFr": "Artistique"
+    },
+    {
+      "id": "automne",
+      "nameFr": "Automne"
+    },
+    {
+      "id": "calendrier",
+      "nameFr": "Calendrier"
+    },
+    {
+      "id": "divers",
+      "nameFr": "Divers"
+    },
+    {
+      "id": "essentiels",
+      "nameFr": "Essentiels"
+    },
+    {
+      "id": "fetes",
+      "nameFr": "Fêtes"
+    },
+    {
+      "id": "halloween",
+      "nameFr": "Halloween"
+    },
+    {
+      "id": "minimaliste",
+      "nameFr": "Minimaliste"
+    },
+    {
+      "id": "mode",
+      "nameFr": "Mode"
+    },
+    {
+      "id": "nature",
+      "nameFr": "Nature"
+    },
+    {
+      "id": "noel",
+      "nameFr": "Noël"
+    },
+    {
+      "id": "photographie",
+      "nameFr": "Photographie"
+    },
+    {
+      "id": "sport",
+      "nameFr": "Sport"
+    },
+    {
+      "id": "urbain",
+      "nameFr": "Urbain"
+    },
+    {
+      "id": "vintage",
+      "nameFr": "Vintage"
+    },
+    {
+      "id": "voyage",
+      "nameFr": "Voyage"
+    }
+  ]
+}
