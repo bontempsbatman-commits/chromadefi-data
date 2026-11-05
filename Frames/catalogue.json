@@ -20,11 +20,11 @@
     },
     {
       "id": "sport",
-      "revision": 3,
+      "revision": 4,
       "nameFr": "Sport",
       "nameEn": "Sports",
       "url": "collections/sport/collection.json",
-      "frameCount": 3
+      "frameCount": 6
     },
     {
       "id": "divers",
