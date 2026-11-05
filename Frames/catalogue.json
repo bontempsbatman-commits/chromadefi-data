@@ -4,15 +4,15 @@
   "collections": [
     {
       "id": "essentiels",
-      "revision": 7,
+      "revision": 8,
       "nameFr": "Essentiels",
       "nameEn": "Essentials",
       "url": "collections/essentiels/collection.json",
-      "frameCount": 4
+      "frameCount": 6
     },
     {
       "id": "autumn",
-      "revision": 4,
+      "revision": 5,
       "nameFr": "Automne",
       "nameEn": "Autumn",
       "url": "collections/autumn/collection.json",
@@ -20,7 +20,7 @@
     },
     {
       "id": "sport",
-      "revision": 2,
+      "revision": 3,
       "nameFr": "Sport",
       "nameEn": "Sports",
       "url": "collections/sport/collection.json",
@@ -31,24 +31,94 @@
       "nameFr": "Divers",
       "nameEn": "Divers",
       "url": "collections/divers/collection.json",
-      "revision": 2,
+      "revision": 3,
       "frameCount": 1
     },
     {
       "id": "artistique",
-      "revision": 2,
+      "revision": 3,
       "nameFr": "Artistique",
       "nameEn": "Artistic",
       "url": "collections/artistique/collection.json",
-      "frameCount": 7
+      "frameCount": 8
     },
     {
       "id": "photographie",
-      "revision": 2,
+      "revision": 3,
       "nameFr": "Photographie",
       "nameEn": "Photography",
       "url": "collections/photographie/collection.json",
       "frameCount": 2
+    }
+  ],
+  "categoryDefinitions": [
+    {
+      "id": "amour",
+      "nameFr": "Amour"
+    },
+    {
+      "id": "artistique",
+      "nameFr": "Artistique"
+    },
+    {
+      "id": "automne",
+      "nameFr": "Automne"
+    },
+    {
+      "id": "calendrier",
+      "nameFr": "Calendrier"
+    },
+    {
+      "id": "divers",
+      "nameFr": "Divers"
+    },
+    {
+      "id": "essentiels",
+      "nameFr": "Essentiels"
+    },
+    {
+      "id": "fetes",
+      "nameFr": "Fêtes"
+    },
+    {
+      "id": "halloween",
+      "nameFr": "Halloween"
+    },
+    {
+      "id": "minimaliste",
+      "nameFr": "Minimaliste"
+    },
+    {
+      "id": "mode",
+      "nameFr": "Mode"
+    },
+    {
+      "id": "nature",
+      "nameFr": "Nature"
+    },
+    {
+      "id": "noel",
+      "nameFr": "Noël"
+    },
+    {
+      "id": "photographie",
+      "nameFr": "Photographie"
+    },
+    {
+      "id": "sport",
+      "nameFr": "Sport"
+    },
+    {
+      "id": "urbain",
+      "nameFr": "Urbain"
+    },
+    {
+      "id": "vintage",
+      "nameFr": "Vintage"
+    },
+    {
+      "id": "voyage",
+      "nameFr": "Voyage"
     }
   ]
 }
