@@ -1,0 +1,150 @@
+{
+  "version": 6,
+  "id": "social",
+  "nameFr": "Social",
+  "nameEn": "Social",
+  "frames": [
+    {
+      "id": "cadre-kovaui45",
+      "nameFr": "Post",
+      "nameEn": "Post",
+      "descFr": "",
+      "descEn": "",
+      "price": 0,
+      "categories": [
+        "artistique",
+        "social"
+      ],
+      "icon": "layout-grid",
+      "type": "remote_slots",
+      "pageCount": 1,
+      "compatibleCounts": [
+        1
+      ],
+      "ratios": [
+        "square"
+      ],
+      "defaultBw": false,
+      "defaultBwThreshold": 50,
+      "defaultBwSlots": [],
+      "images": {
+        "square": "images/cadre-kovaui45-square.png"
+      },
+      "slots": {
+        "story": [],
+        "square": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "photoSource": 0,
+            "defaultEffect": "glitch"
+          },
+          {
+            "x": 26.47,
+            "y": 21.45,
+            "w": 47.43,
+            "h": 47.67,
+            "photoSource": 0
+          }
+        ]
+      },
+      "titles": {
+        "square": [
+          {
+            "text": "Your Name",
+            "x": 42.54,
+            "y": 18.12,
+            "width": 88.52,
+            "size": 3.09,
+            "color": "#272923",
+            "id": "833d43b2-fd67-4741-b1f1-dff6d2674740",
+            "fontId": "courier-prime"
+          }
+        ]
+      },
+      "publishedAt": "2026-11-05",
+      "thumbnailRatio": "square",
+      "thumbnail": "miniatures/cadre-kovaui45.webp"
+    }
+  ],
+  "categoryDefinitions": [
+    {
+      "id": "amour",
+      "nameFr": "Amour"
+    },
+    {
+      "id": "artistique",
+      "nameFr": "Artistique"
+    },
+    {
+      "id": "automne",
+      "nameFr": "Automne"
+    },
+    {
+      "id": "calendrier",
+      "nameFr": "Calendrier"
+    },
+    {
+      "id": "divers",
+      "nameFr": "Divers"
+    },
+    {
+      "id": "essentiels",
+      "nameFr": "Essentiels"
+    },
+    {
+      "id": "fetes",
+      "nameFr": "Fêtes"
+    },
+    {
+      "id": "halloween",
+      "nameFr": "Halloween"
+    },
+    {
+      "id": "minimaliste",
+      "nameFr": "Minimaliste"
+    },
+    {
+      "id": "mode",
+      "nameFr": "Mode"
+    },
+    {
+      "id": "nature",
+      "nameFr": "Nature"
+    },
+    {
+      "id": "noel",
+      "nameFr": "Noël"
+    },
+    {
+      "id": "papier",
+      "nameFr": "Papier"
+    },
+    {
+      "id": "photographie",
+      "nameFr": "Photographie"
+    },
+    {
+      "id": "social",
+      "nameFr": "Social"
+    },
+    {
+      "id": "sport",
+      "nameFr": "Sport"
+    },
+    {
+      "id": "urbain",
+      "nameFr": "Urbain"
+    },
+    {
+      "id": "vintage",
+      "nameFr": "Vintage"
+    },
+    {
+      "id": "voyage",
+      "nameFr": "Voyage"
+    }
+  ]
+}

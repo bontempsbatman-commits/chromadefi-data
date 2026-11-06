@@ -1,0 +1,228 @@
+{
+  "version": 6,
+  "id": "paper",
+  "nameFr": "Papier",
+  "nameEn": "Paper",
+  "frames": [
+    {
+      "id": "cadre-qmj0ting",
+      "nameFr": "",
+      "nameEn": "",
+      "descFr": "",
+      "descEn": "",
+      "price": 0,
+      "categories": [
+        "artistique",
+        "papier"
+      ],
+      "icon": "layout-grid",
+      "type": "remote_slots",
+      "pageCount": 1,
+      "compatibleCounts": [
+        1
+      ],
+      "ratios": [
+        "portrait"
+      ],
+      "defaultBw": false,
+      "defaultBwThreshold": 50,
+      "defaultBwSlots": [],
+      "images": {
+        "portrait": "images/cadre-qmj0ting-portrait.png"
+      },
+      "slots": {
+        "portrait": [
+          {
+            "points": [
+              {
+                "x": 24.7,
+                "y": 8.58
+              },
+              {
+                "x": 88.04,
+                "y": 6.01
+              },
+              {
+                "x": 88.19,
+                "y": 65.03
+              },
+              {
+                "x": 73.78,
+                "y": 91.77
+              },
+              {
+                "x": 13.35,
+                "y": 91.65
+              },
+              {
+                "x": 16.26,
+                "y": 61.47
+              }
+            ]
+          }
+        ],
+        "story": []
+      },
+      "publishedAt": "2026-11-06",
+      "defaultEffect": "sepia",
+      "defaultEffectAmount": 50,
+      "thumbnailRatio": "portrait",
+      "thumbnail": "miniatures/cadre-qmj0ting.webp"
+    },
+    {
+      "id": "cadre-cc0hmt49",
+      "nameFr": "",
+      "nameEn": "",
+      "descFr": "",
+      "descEn": "",
+      "price": 0,
+      "categories": [
+        "papier",
+        "voyage"
+      ],
+      "icon": "layout-grid",
+      "type": "remote_slots",
+      "pageCount": 4,
+      "compatibleCounts": [
+        6
+      ],
+      "ratios": [
+        "portrait"
+      ],
+      "defaultBw": false,
+      "defaultBwThreshold": 50,
+      "defaultBwSlots": [],
+      "images": {
+        "portrait": "images/cadre-cc0hmt49-portrait.png"
+      },
+      "slots": {
+        "story": [],
+        "portrait": [
+          {
+            "x": 3.89,
+            "y": 17.96,
+            "w": 18.02,
+            "h": 60.52,
+            "rot": -4.05
+          },
+          {
+            "x": 30.16,
+            "y": 16.18,
+            "w": 13.44,
+            "h": 33.82,
+            "rot": -8.36
+          },
+          {
+            "x": 31.43,
+            "y": 48.66,
+            "w": 13.35,
+            "h": 34.27,
+            "rot": -7.36
+          },
+          {
+            "x": 52.64,
+            "y": 22.85,
+            "w": 19.4,
+            "h": 48.29,
+            "rot": 4.66
+          },
+          {
+            "x": 78.03,
+            "y": 8.83,
+            "w": 18.08,
+            "h": 34.49,
+            "rot": -3.55
+          },
+          {
+            "x": 79.62,
+            "y": 49.11,
+            "w": 18.43,
+            "h": 35.6,
+            "rot": 3.18
+          }
+        ]
+      },
+      "publishedAt": "2026-11-06",
+      "thumbnailRatio": "portrait",
+      "thumbnail": "miniatures/cadre-cc0hmt49.webp"
+    }
+  ],
+  "categoryDefinitions": [
+    {
+      "id": "amour",
+      "nameFr": "Amour"
+    },
+    {
+      "id": "artistique",
+      "nameFr": "Artistique"
+    },
+    {
+      "id": "automne",
+      "nameFr": "Automne"
+    },
+    {
+      "id": "calendrier",
+      "nameFr": "Calendrier"
+    },
+    {
+      "id": "divers",
+      "nameFr": "Divers"
+    },
+    {
+      "id": "essentiels",
+      "nameFr": "Essentiels"
+    },
+    {
+      "id": "fetes",
+      "nameFr": "Fêtes"
+    },
+    {
+      "id": "halloween",
+      "nameFr": "Halloween"
+    },
+    {
+      "id": "minimaliste",
+      "nameFr": "Minimaliste"
+    },
+    {
+      "id": "mode",
+      "nameFr": "Mode"
+    },
+    {
+      "id": "nature",
+      "nameFr": "Nature"
+    },
+    {
+      "id": "noel",
+      "nameFr": "Noël"
+    },
+    {
+      "id": "papier",
+      "nameFr": "Papier"
+    },
+    {
+      "id": "photographie",
+      "nameFr": "Photographie"
+    },
+    {
+      "id": "social",
+      "nameFr": "Social"
+    },
+    {
+      "id": "sport",
+      "nameFr": "Sport"
+    },
+    {
+      "id": "urbain",
+      "nameFr": "Urbain"
+    },
+    {
+      "id": "vintage",
+      "nameFr": "Vintage"
+    },
+    {
+      "id": "voyage",
+      "nameFr": "Voyage"
+    }
+  ]
+}

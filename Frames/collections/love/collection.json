@@ -1,0 +1,125 @@
+{
+  "version": 6,
+  "id": "love",
+  "nameFr": "Love",
+  "nameEn": "Love",
+  "frames": [
+    {
+      "id": "cadre-1esgkplz",
+      "nameFr": "",
+      "nameEn": "",
+      "descFr": "",
+      "descEn": "",
+      "price": 0,
+      "categories": [
+        "amour"
+      ],
+      "icon": "layout-grid",
+      "type": "remote_slots",
+      "pageCount": 1,
+      "compatibleCounts": [
+        1
+      ],
+      "ratios": [
+        "story"
+      ],
+      "defaultBw": false,
+      "defaultBwThreshold": 50,
+      "defaultBwSlots": [],
+      "images": {
+        "story": "images/cadre-1esgkplz-story.png"
+      },
+      "slots": {
+        "story": [
+          {
+            "x": 10.87,
+            "y": 28.86,
+            "w": 80.22,
+            "h": 42.68
+          }
+        ]
+      },
+      "publishedAt": "2026-11-05",
+      "thumbnailRatio": "story",
+      "thumbnail": "miniatures/cadre-1esgkplz.webp"
+    }
+  ],
+  "categoryDefinitions": [
+    {
+      "id": "amour",
+      "nameFr": "Amour"
+    },
+    {
+      "id": "artistique",
+      "nameFr": "Artistique"
+    },
+    {
+      "id": "automne",
+      "nameFr": "Automne"
+    },
+    {
+      "id": "calendrier",
+      "nameFr": "Calendrier"
+    },
+    {
+      "id": "divers",
+      "nameFr": "Divers"
+    },
+    {
+      "id": "essentiels",
+      "nameFr": "Essentiels"
+    },
+    {
+      "id": "fetes",
+      "nameFr": "Fêtes"
+    },
+    {
+      "id": "halloween",
+      "nameFr": "Halloween"
+    },
+    {
+      "id": "minimaliste",
+      "nameFr": "Minimaliste"
+    },
+    {
+      "id": "mode",
+      "nameFr": "Mode"
+    },
+    {
+      "id": "nature",
+      "nameFr": "Nature"
+    },
+    {
+      "id": "noel",
+      "nameFr": "Noël"
+    },
+    {
+      "id": "papier",
+      "nameFr": "Papier"
+    },
+    {
+      "id": "photographie",
+      "nameFr": "Photographie"
+    },
+    {
+      "id": "social",
+      "nameFr": "Social"
+    },
+    {
+      "id": "sport",
+      "nameFr": "Sport"
+    },
+    {
+      "id": "urbain",
+      "nameFr": "Urbain"
+    },
+    {
+      "id": "vintage",
+      "nameFr": "Vintage"
+    },
+    {
+      "id": "voyage",
+      "nameFr": "Voyage"
+    }
+  ]
+}

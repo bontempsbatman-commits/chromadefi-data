@@ -1,0 +1,269 @@
+{
+  "version": 6,
+  "id": "photographie",
+  "nameFr": "Photographie",
+  "nameEn": "Photography",
+  "frames": [
+    {
+      "id": "cadre-0ir7ixmp",
+      "nameFr": "Reflex B&W",
+      "nameEn": "Reflex B&W",
+      "descFr": "",
+      "descEn": "",
+      "price": 0,
+      "icon": "layout-grid",
+      "type": "remote_overlay",
+      "pageCount": 1,
+      "compatibleCounts": [
+        1
+      ],
+      "ratios": [
+        "story",
+        "landscape"
+      ],
+      "defaultBw": false,
+      "defaultBwThreshold": 10,
+      "defaultBwSlots": [],
+      "images": {
+        "story": "images/cadre-0ir7ixmp-story.png",
+        "landscape": "images/cadre-0ir7ixmp-landscape.png"
+      },
+      "slots": {
+        "story": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100
+          }
+        ],
+        "landscape": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100
+          }
+        ]
+      },
+      "publishedAt": "2026-11-05",
+      "defaultEffectAmount": 100,
+      "defaultEffect": "bw",
+      "categories": [
+        "photographie",
+        "vintage"
+      ],
+      "thumbnail": "miniatures/cadre-0ir7ixmp.webp",
+      "thumbnailRatio": "landscape",
+      "thumbnailCounts": {
+        "story": 1,
+        "landscape": 1
+      }
+    },
+    {
+      "id": "cadre-v3sdhjef",
+      "nameFr": "Caméscope",
+      "nameEn": "Camcorder",
+      "descFr": "",
+      "descEn": "",
+      "price": 0,
+      "icon": "layout-grid",
+      "type": "remote_overlay",
+      "pageCount": 1,
+      "compatibleCounts": [
+        1
+      ],
+      "ratios": [
+        "story",
+        "landscape"
+      ],
+      "defaultBw": false,
+      "defaultBwThreshold": 50,
+      "defaultBwSlots": [],
+      "images": {
+        "story": "images/cadre-v3sdhjef-story.png",
+        "landscape": "images/cadre-v3sdhjef-landscape.png"
+      },
+      "slots": {},
+      "publishedAt": "2026-11-05",
+      "categories": [
+        "photographie",
+        "vintage"
+      ],
+      "thumbnail": "miniatures/cadre-v3sdhjef.webp",
+      "thumbnailRatio": "story",
+      "thumbnailCounts": {
+        "story": 1,
+        "landscape": 1
+      }
+    },
+    {
+      "id": "cadre-yui8ag1w",
+      "nameFr": "",
+      "nameEn": "",
+      "descFr": "",
+      "descEn": "",
+      "price": 0,
+      "categories": [
+        "artistique",
+        "mode",
+        "photographie"
+      ],
+      "icon": "layout-grid",
+      "type": "remote_slots",
+      "pageCount": 1,
+      "compatibleCounts": [
+        1
+      ],
+      "ratios": [
+        "story"
+      ],
+      "defaultBw": false,
+      "defaultBwThreshold": 50,
+      "defaultBwSlots": [],
+      "images": {
+        "story": "images/cadre-yui8ag1w-story.png"
+      },
+      "slots": {
+        "story": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "photoSource": 0,
+            "defaultEffect": "bw"
+          },
+          {
+            "x": 15.22,
+            "y": 24.09,
+            "w": 68.48,
+            "h": 54.29,
+            "rot": -2.77,
+            "photoSource": 0
+          }
+        ]
+      },
+      "publishedAt": "2026-11-05",
+      "thumbnailRatio": "story",
+      "thumbnail": "miniatures/cadre-yui8ag1w.webp"
+    },
+    {
+      "id": "cadre-v6spld8x",
+      "nameFr": "",
+      "nameEn": "",
+      "descFr": "",
+      "descEn": "",
+      "price": 0,
+      "categories": [
+        "photographie",
+        "vintage"
+      ],
+      "icon": "layout-grid",
+      "type": "remote_overlay",
+      "pageCount": 1,
+      "compatibleCounts": [
+        1
+      ],
+      "ratios": [
+        "square"
+      ],
+      "defaultBw": false,
+      "defaultBwThreshold": 90,
+      "defaultBwSlots": [],
+      "images": {
+        "square": "images/cadre-v6spld8x-square.png"
+      },
+      "slots": {
+        "story": [],
+        "square": []
+      },
+      "publishedAt": "2026-11-05",
+      "defaultEffect": "none",
+      "defaultEffectAmount": 80,
+      "thumbnailCounts": {
+        "square": 1
+      },
+      "thumbnailRatio": "square",
+      "thumbnail": "miniatures/cadre-v6spld8x.webp"
+    }
+  ],
+  "categoryDefinitions": [
+    {
+      "id": "amour",
+      "nameFr": "Amour"
+    },
+    {
+      "id": "artistique",
+      "nameFr": "Artistique"
+    },
+    {
+      "id": "automne",
+      "nameFr": "Automne"
+    },
+    {
+      "id": "calendrier",
+      "nameFr": "Calendrier"
+    },
+    {
+      "id": "divers",
+      "nameFr": "Divers"
+    },
+    {
+      "id": "essentiels",
+      "nameFr": "Essentiels"
+    },
+    {
+      "id": "fetes",
+      "nameFr": "Fêtes"
+    },
+    {
+      "id": "halloween",
+      "nameFr": "Halloween"
+    },
+    {
+      "id": "minimaliste",
+      "nameFr": "Minimaliste"
+    },
+    {
+      "id": "mode",
+      "nameFr": "Mode"
+    },
+    {
+      "id": "nature",
+      "nameFr": "Nature"
+    },
+    {
+      "id": "noel",
+      "nameFr": "Noël"
+    },
+    {
+      "id": "papier",
+      "nameFr": "Papier"
+    },
+    {
+      "id": "photographie",
+      "nameFr": "Photographie"
+    },
+    {
+      "id": "social",
+      "nameFr": "Social"
+    },
+    {
+      "id": "sport",
+      "nameFr": "Sport"
+    },
+    {
+      "id": "urbain",
+      "nameFr": "Urbain"
+    },
+    {
+      "id": "vintage",
+      "nameFr": "Vintage"
+    },
+    {
+      "id": "voyage",
+      "nameFr": "Voyage"
+    }
+  ]
+}
