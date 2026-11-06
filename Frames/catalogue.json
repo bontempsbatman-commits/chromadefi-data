@@ -4,11 +4,11 @@
   "collections": [
     {
       "id": "essentiels",
-      "revision": 9,
+      "revision": 10,
       "nameFr": "Essentiels",
       "nameEn": "Essentials",
       "url": "collections/essentiels/collection.json",
-      "frameCount": 6
+      "frameCount": 7
     },
     {
       "id": "autumn",
