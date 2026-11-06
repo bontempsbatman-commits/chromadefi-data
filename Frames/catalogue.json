@@ -4,7 +4,7 @@
   "collections": [
     {
       "id": "essentiels",
-      "revision": 8,
+      "revision": 9,
       "nameFr": "Essentiels",
       "nameEn": "Essentials",
       "url": "collections/essentiels/collection.json",
@@ -12,7 +12,7 @@
     },
     {
       "id": "autumn",
-      "revision": 5,
+      "revision": 6,
       "nameFr": "Automne",
       "nameEn": "Autumn",
       "url": "collections/autumn/collection.json",
@@ -27,16 +27,16 @@
       "frameCount": 6
     },
     {
-      "id": "divers",
-      "nameFr": "Divers",
-      "nameEn": "Divers",
-      "url": "collections/divers/collection.json",
-      "revision": 3,
+      "id": "free",
+      "nameFr": "Gratuit",
+      "nameEn": "Free",
+      "url": "collections/free/collection.json",
+      "revision": 2,
       "frameCount": 1
     },
     {
       "id": "artistique",
-      "revision": 3,
+      "revision": 4,
       "nameFr": "Artistique",
       "nameEn": "Artistic",
       "url": "collections/artistique/collection.json",
@@ -44,10 +44,42 @@
     },
     {
       "id": "photographie",
-      "revision": 3,
+      "revision": 4,
       "nameFr": "Photographie",
       "nameEn": "Photography",
       "url": "collections/photographie/collection.json",
+      "frameCount": 4
+    },
+    {
+      "id": "love",
+      "nameFr": "Love",
+      "nameEn": "Love",
+      "url": "collections/love/collection.json",
+      "revision": 2,
+      "frameCount": 1
+    },
+    {
+      "id": "social",
+      "nameFr": "Social",
+      "nameEn": "Social",
+      "url": "collections/social/collection.json",
+      "revision": 2,
+      "frameCount": 1
+    },
+    {
+      "id": "vintage",
+      "nameFr": "Vintage",
+      "nameEn": "Vintage",
+      "url": "collections/vintage/collection.json",
+      "revision": 2,
+      "frameCount": 1
+    },
+    {
+      "id": "paper",
+      "nameFr": "Papier",
+      "nameEn": "Paper",
+      "url": "collections/paper/collection.json",
+      "revision": 2,
       "frameCount": 2
     }
   ],
@@ -101,8 +133,16 @@
       "nameFr": "Noël"
     },
     {
+      "id": "papier",
+      "nameFr": "Papier"
+    },
+    {
       "id": "photographie",
       "nameFr": "Photographie"
+    },
+    {
+      "id": "social",
+      "nameFr": "Social"
     },
     {
       "id": "sport",
